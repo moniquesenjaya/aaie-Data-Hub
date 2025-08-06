@@ -1,0 +1,81 @@
+{
+  "domain": "Psychology",
+  "prompt": "Critically evaluate the role of cognitive biases in human decision-making. Select at least three cognitive biases (e.g., confirmation bias, anchoring, availability heuristic) and explain how they influence decision-making in real-world scenarios (e.g., healthcare, law, relationships, consumer behavior). Discuss the psychological theories behind them and explore how awareness or mitigation strategies can improve judgment.",
+  "rubric": {
+    "rubric_id": "rub_psy_001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Conceptual Understanding of Biases",
+        "description": "Demonstrates comprehension of selected biases, including theoretical foundations.",
+        "performance_descriptors": {
+          "excellent": "Shows precise and in-depth understanding of cognitive biases, with clear links to relevant psychological theories.",
+          "good": "Understands biases well, though one may be less developed. Sound theoretical support.",
+          "average": "Adequate explanation of at least two biases; minor inaccuracies present.",
+          "needs_improvement": "Limited explanation with surface-level or confused understanding of biases.",
+          "poor": "Major misunderstanding or misrepresentation of the biases or their definitions."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Real-World Scenarios",
+        "description": "Applies biases meaningfully to examples from everyday or professional contexts.",
+        "performance_descriptors": {
+          "excellent": "Applies biases to a variety of insightful and relevant real-world cases, with clear articulation of cause-effect.",
+          "good": "Examples are appropriate and mostly well explained; some links may be weaker.",
+          "average": "Includes examples, but explanation lacks depth or connection is unclear.",
+          "needs_improvement": "Examples are vague, generic, or disconnected from biases.",
+          "poor": "No real-world application present."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Critical Evaluation and Mitigation Strategies",
+        "description": "Explores ways to recognize or reduce the impact of cognitive biases.",
+        "performance_descriptors": {
+          "excellent": "Provides thoughtful, research-backed strategies to mitigate biases and reflects on psychological implications.",
+          "good": "Discusses plausible strategies, though some may be underdeveloped or lacking in depth.",
+          "average": "Mentions bias mitigation with limited detail or superficial treatment.",
+          "needs_improvement": "Strategies are unclear or unrelated to specific biases.",
+          "poor": "No discussion of mitigation or critical reflection."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Writing",
+        "description": "Quality of writing, paragraph flow, citations, and tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent and academic in tone, with flawless grammar and proper referencing.",
+          "good": "Mostly clear and professional; occasional grammar or structural issues.",
+          "average": "Organization is present but with inconsistencies or awkward phrasing.",
+          "needs_improvement": "Structure and tone hinder clarity; referencing or grammar needs work.",
+          "poor": "Disorganized, informal, or unacademic; serious issues with readability."
+        }
+      }
+    ]
+  },
+  "submissions": [
+  {
+    "quality": "Excellent",
+    "key_points": [
+      "Clearly define and differentiate at least three cognitive biases: confirmation bias, anchoring, and availability heuristic.",
+      "Link each bias to psychological theories such as dual-process theory, heuristics and biases framework, or schema theory.",
+      "Apply each bias to distinct real-world decision-making contexts like healthcare, legal judgments, and consumer behavior.",
+      "Include detailed cause-effect explanations of how the bias alters judgment or leads to flawed decisions.",
+      "Critically evaluate the limitations of human reasoning and propose specific mitigation strategies (e.g., training, checklists, blind procedures).",
+      "Structure the essay with a formal academic tone, logical progression, and APA referencing of psychological literature."
+    ],
+    "llm_questions": [
+      "Can you explain the cognitive mechanisms behind confirmation bias, anchoring, and the availability heuristic?",
+      "What psychological theories support the existence of these cognitive biases in decision-making?",
+      "How does confirmation bias influence medical decisions, such as diagnosis or treatment selection?",
+      "What is an example of anchoring bias in salary negotiation or consumer pricing?",
+      "How does the availability heuristic affect public risk perception (e.g., during a health crisis or media coverage of crime)?",
+      "What are evidence-based strategies for mitigating cognitive biases in professional decision-making?",
+      "Can you provide a structured outline for a psychology essay that critically evaluates cognitive biases?",
+      "What does APA-style referencing look like for journal articles and psychological theories?"
+    ]
+  }
+]
+
+}
