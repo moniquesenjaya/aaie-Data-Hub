@@ -1,5 +1,5 @@
 {
-    "domain": "Information Technology",
+    "domain": "Psychology",
     "prompt": "Critically evaluate the role of cognitive biases in human decision-making. Select at least three cognitive biases (e.g., confirmation bias, anchoring, availability heuristic) and explain how they influence decision-making in real-world scenarios (e.g., healthcare, law, relationships, consumer behavior). Discuss the psychological theories behind them and explore how awareness or mitigation strategies can improve judgment.",
     "rubric": {
         "rubric_id": "rub_psychology_0001",
