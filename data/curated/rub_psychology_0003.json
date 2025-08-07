@@ -1,0 +1,80 @@
+{
+  "domain": "Psychology",
+  "prompt": "Discuss how classical conditioning principles can be applied in modern therapeutic practices. Include examples such as systematic desensitization, aversion therapy, or treatment of phobias. Support your discussion with references to key psychological studies and behaviorist theory.",
+  "rubric": {
+    "rubric_id": "rub_psychology_0003",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Classical Conditioning",
+        "description": "Demonstrates knowledge of classical conditioning principles and terminology.",
+        "performance_descriptors": {
+          "excellent": "Explains core principles (UCS, UCR, CS, CR) and theoretical background with clarity and depth.",
+          "good": "Describes classical conditioning accurately but may lack theoretical nuance.",
+          "average": "Covers basic terms with minor inaccuracies or gaps.",
+          "needs_improvement": "Limited or confused understanding of classical conditioning.",
+          "poor": "Fails to explain classical conditioning correctly."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Application to Therapy",
+        "description": "Applies conditioning principles to therapeutic settings and techniques.",
+        "performance_descriptors": {
+          "excellent": "Accurately applies classical conditioning to at least two modern therapies with detailed examples.",
+          "good": "Applies theory to therapy with minor errors or less-developed examples.",
+          "average": "Basic application with some inaccuracies or vague connections.",
+          "needs_improvement": "Weak application or unclear therapeutic links.",
+          "poor": "No clear application to therapy."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Psychological Evidence",
+        "description": "Supports discussion with appropriate academic references and classic studies.",
+        "performance_descriptors": {
+          "excellent": "Incorporates key behaviorist studies (e.g., Pavlov, Watson, Mary Cover Jones) and relevant sources effectively.",
+          "good": "References studies and sources, but lacks integration or depth.",
+          "average": "Mentions studies but may misrepresent or underuse them.",
+          "needs_improvement": "Minimal or inappropriate use of evidence.",
+          "poor": "No supporting evidence provided."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Academic Writing Quality",
+        "description": "Demonstrates clarity, formality, and APA-style referencing.",
+        "performance_descriptors": {
+          "excellent": "Academic tone, well-structured paragraphs, error-free grammar, and proper APA referencing.",
+          "good": "Mostly formal and clear with few errors.",
+          "average": "Some issues with clarity or style; referencing inconsistent.",
+          "needs_improvement": "Lacks formality or clarity; referencing incomplete.",
+          "poor": "Disorganized or informal writing; lacks referencing."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Explain key concepts of classical conditioning: UCS, UCR, CS, CR, generalization, extinction.",
+        "Connect theory to behavioral therapy methods such as systematic desensitization and aversion therapy.",
+        "Describe how phobias are treated using exposure and relaxation techniques.",
+        "Reference major contributors like Pavlov and Mary Cover Jones.",
+        "Discuss limitations or ethical concerns with behaviorist methods.",
+        "Write in formal academic tone and use APA-style references for theory and case studies."
+      ],
+      "llm_questions": [
+        "What are the key components of classical conditioning, and how do they work together?",
+        "How does systematic desensitization use classical conditioning to treat phobias?",
+        "Can you explain the steps involved in aversion therapy and how it relates to conditioned response?",
+        "What are some real-world examples of classical conditioning being used in clinical therapy?",
+        "Who are key theorists or psychologists associated with classical conditioning?",
+        "What criticisms or limitations are associated with behaviorist approaches to therapy?",
+        "What is the APA reference format for citing Pavlov or Watson's original studies?",
+        "Can you provide a structured outline for an essay discussing classical conditioning in therapy?"
+      ]
+    }
+  ]
+}
