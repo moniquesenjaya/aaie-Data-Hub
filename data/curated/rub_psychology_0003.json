@@ -1,0 +1,203 @@
+{
+    "domain": "Psychology",
+    "prompt": "Discuss how classical conditioning principles can be applied in modern therapeutic practices. Include examples such as systematic desensitization, aversion therapy, or treatment of phobias. Support your discussion with references to key psychological studies and behaviorist theory.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0003",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Classical Conditioning",
+                "description": "Demonstrates knowledge of classical conditioning principles and terminology.",
+                "performance_descriptors": {
+                    "excellent": "Explains core principles (UCS, UCR, CS, CR) and theoretical background with clarity and depth.",
+                    "good": "Describes classical conditioning accurately but may lack theoretical nuance.",
+                    "average": "Covers basic terms with minor inaccuracies or gaps.",
+                    "needs_improvement": "Limited or confused understanding of classical conditioning.",
+                    "poor": "Fails to explain classical conditioning correctly."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application to Therapy",
+                "description": "Applies conditioning principles to therapeutic settings and techniques.",
+                "performance_descriptors": {
+                    "excellent": "Accurately applies classical conditioning to at least two modern therapies with detailed examples.",
+                    "good": "Applies theory to therapy with minor errors or less-developed examples.",
+                    "average": "Basic application with some inaccuracies or vague connections.",
+                    "needs_improvement": "Weak application or unclear therapeutic links.",
+                    "poor": "No clear application to therapy."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Use of Psychological Evidence",
+                "description": "Supports discussion with appropriate academic references and classic studies.",
+                "performance_descriptors": {
+                    "excellent": "Incorporates key behaviorist studies (e.g., Pavlov, Watson, Mary Cover Jones) and relevant sources effectively.",
+                    "good": "References studies and sources, but lacks integration or depth.",
+                    "average": "Mentions studies but may misrepresent or underuse them.",
+                    "needs_improvement": "Minimal or inappropriate use of evidence.",
+                    "poor": "No supporting evidence provided."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Writing Quality",
+                "description": "Demonstrates clarity, formality, and APA-style referencing.",
+                "performance_descriptors": {
+                    "excellent": "Academic tone, well-structured paragraphs, error-free grammar, and proper APA referencing.",
+                    "good": "Mostly formal and clear with few errors.",
+                    "average": "Some issues with clarity or style; referencing inconsistent.",
+                    "needs_improvement": "Lacks formality or clarity; referencing incomplete.",
+                    "poor": "Disorganized or informal writing; lacks referencing."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Explain key concepts of classical conditioning: UCS, UCR, CS, CR, generalization, extinction.",
+                "Connect theory to behavioral therapy methods such as systematic desensitization and aversion therapy.",
+                "Describe how phobias are treated using exposure and relaxation techniques.",
+                "Reference major contributors like Pavlov and Mary Cover Jones.",
+                "Discuss limitations or ethical concerns with behaviorist methods.",
+                "Write in formal academic tone and use APA-style references for theory and case studies."
+            ],
+            "llm_questions": [
+                "What are the key components of classical conditioning, and how do they work together?",
+                "How does systematic desensitization use classical conditioning to treat phobias?",
+                "Can you explain the steps involved in aversion therapy and how it relates to a conditioned response?",
+                "Who are key theorists or psychologists associated with classical conditioning and its application in therapy?",
+                "What is the APA reference format for citing Pavlov or Watson's original studies?"
+            ],
+            "llm_answers": [
+                "Classical conditioning involves an Unconditioned Stimulus (UCS) that naturally elicits an Unconditioned Response (UCR). A Neutral Stimulus (NS) is repeatedly paired with the UCS. Over time, the NS becomes a Conditioned Stimulus (CS) that elicits a Conditioned Response (CR), which is similar to the original UCR.",
+                "Systematic desensitization treats phobias by pairing relaxation techniques (a new UCR) with gradually increasing exposure to the phobic stimulus (the CS). This process, known as counter-conditioning, replaces the fear response with a relaxation response, effectively extinguishing the phobia.",
+                "Aversion therapy pairs an undesirable behavior (e.g., drinking alcohol) with an aversive stimulus (e.g., a nausea-inducing drug - the UCS). The alcohol (CS) becomes associated with nausea (CR), leading the individual to avoid it. This creates a new, conditioned aversion.",
+                "Key figures include Ivan Pavlov, who discovered the principle with his dogs; John B. Watson, who applied it to humans in the 'Little Albert' experiment; and Mary Cover Jones, a pioneer of behavior therapy who developed counter-conditioning techniques to treat phobias, as seen in her 'Little Peter' study.",
+                "For a classic work, you would cite it in text as (Pavlov, 1927). The reference list entry would be: Pavlov, I. P. (1927). *Conditioned reflexes: An investigation of the physiological activity of the cerebral cortex* (G. V. Anrep, Trans.). Oxford University Press."
+            ],
+            "final_submission": "Classical conditioning, a foundational theory within behaviorism, posits that learning occurs through the association of a neutral stimulus with one that naturally elicits a response. As articulated by Ivan Pavlov in his seminal research with dogs (Pavlov, 1927), this process involves four key components: an unconditioned stimulus (UCS), an unconditioned response (UCR), a conditioned stimulus (CS), and a conditioned response (CR). An unconditioned stimulus, such as food, naturally produces an unconditioned response, like salivation. When a neutral stimulus, like a bell, is consistently paired with the UCS, it becomes a conditioned stimulus, capable of eliciting a conditioned response (salivation) on its own. This framework has proven instrumental in developing modern therapeutic practices aimed at modifying maladaptive behaviors, particularly in the treatment of phobias and addictions.\n\nOne of the most prominent applications is systematic desensitization, a technique pioneered by Joseph Wolpe based on the counter-conditioning principles demonstrated by Mary Cover Jones (1924). Jones successfully treated a young boy's, Peter's, fear of rabbits by pairing the rabbit (CS) with a pleasant stimulus (food - UCS), thereby replacing the fear response (CR) with a positive one. Systematic desensitization applies this by first teaching a patient relaxation techniques. Then, the patient creates a fear hierarchy, ranking anxiety-provoking situations from least to most fearful. The therapist guides the patient to confront these situations, starting with the least fearful, while in a state of deep relaxation. By pairing the fear-inducing stimulus (CS) with relaxation (a competing UCR), the conditioned fear response is gradually extinguished. Another powerful application is aversion therapy, often used for substance abuse. In this context, a problematic behavior, such as consuming alcohol (CS), is paired with an aversive stimulus (UCS), like a nausea-inducing drug. After repeated pairings, the alcohol alone begins to elicit a conditioned response of nausea and aversion, discouraging its consumption (Cannon & Baker, 1981). While effective, such behaviorist approaches are sometimes criticized for ignoring cognitive factors and raising ethical concerns regarding the use of aversive stimuli. Nonetheless, their basis in classical conditioning provides a powerful and enduring model for behavioral change in a clinical setting.\n\nReferences\nCannon, D. S., & Baker, T. B. (1981). Emetic and electric shock alcohol aversion therapy: Assessment of conditioning. *Journal of Consulting and Clinical Psychology, 49*(1), 20–33.\nJones, M. C. (1924). A laboratory study of fear: The case of Peter. *The Pedagogical Seminary and Journal of Genetic Psychology, 31*(4), 308–315.\nPavlov, I. P. (1927). *Conditioned reflexes: An investigation of the physiological activity of the cerebral cortex* (G. V. Anrep, Trans.). Oxford University Press.",
+            "feedback": {
+                "c1": "Excellent. Your explanation of the core principles of classical conditioning (UCS, UCR, CS, CR) is clear, accurate, and demonstrates a deep understanding of the theoretical background established by Pavlov.",
+                "c2": "Excellent. You have accurately applied the theory to two distinct modern therapies—systematic desensitization and aversion therapy—providing detailed and clear examples of how each one functions based on conditioning principles.",
+                "c3": "Excellent. You effectively incorporated key studies from Pavlov and Mary Cover Jones, using them to ground your discussion of therapeutic applications. The integration of sources is seamless and adds significant weight to your arguments.",
+                "c4": "Excellent. The submission is written in a formal academic tone with well-structured paragraphs and error-free grammar. Your APA referencing is formatted correctly both in-text and in the reference list. A model response."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Accurately describes the basic concepts of classical conditioning.",
+                "Applies the theory to therapeutic examples like systematic desensitization.",
+                "The connection between theory and one of the examples may be less developed.",
+                "References key figures like Pavlov.",
+                "The writing is clear and mostly formal, with a few minor errors."
+            ],
+            "llm_questions": [
+                "What is classical conditioning?",
+                "How is classical conditioning used to treat phobias?",
+                "Can you give an example of a therapy based on this?",
+                "Who was Pavlov?"
+            ],
+            "llm_answers": [
+                "Classical conditioning is a type of learning where a neutral stimulus gets associated with a stimulus that produces an automatic response. After a while, the neutral stimulus alone will cause the response.",
+                "To treat phobias, you can use conditioning to replace the fear response with a relaxation response. This is done by exposing the person to what they're afraid of a little at a time while they are relaxed.",
+                "An example is systematic desensitization. If someone is afraid of spiders, you teach them to relax, and then show them a picture of a spider, then a real spider in a cage, and so on, until they are not scared anymore.",
+                "Pavlov was a Russian scientist who studied digestion in dogs and discovered classical conditioning by accident. He noticed the dogs started to salivate at the sound of a bell he rang before feeding them."
+            ],
+            "final_submission": "Classical conditioning is a learning process first described by the Russian scientist Ivan Pavlov. He found that you can condition a response to a new stimulus. In his famous experiments, dogs naturally drool (unconditioned response) when they see food (unconditioned stimulus). Pavlov started ringing a bell (neutral stimulus) right before giving the food. Soon, the dogs started drooling just at the sound of the bell, which had become a conditioned stimulus that caused a conditioned response. This idea is very important for psychology and is used in therapy today.\n\nA key use of classical conditioning is in therapies for phobias. One of the main therapies is systematic desensitization. This therapy works by trying to replace the feeling of fear with a feeling of relaxation. For example, if a person has a phobia of flying, a therapist would first teach them relaxation exercises. Then, they would make a list of scary things, from just thinking about a plane to actually getting on one. The patient would work through the list, using the relaxation techniques at each step until they no longer feel fear. This is basically counter-conditioning, where the fear is unlearned. Another therapy is aversion therapy, where you pair something bad like an electric shock with a bad habit. This makes the person not want to do the habit anymore. These methods show how powerful classical conditioning can be in changing behavior.\n\nReferences:\nPavlov, I. (1927). Conditioned Reflexes.",
+            "feedback": {
+                "c1": "Good. You have accurately described the core process of classical conditioning using Pavlov's experiment as a clear example. To improve, you could define the key terms (UCS, CS, etc.) more explicitly for greater theoretical depth.",
+                "c2": "Good. Your application of classical conditioning to systematic desensitization is strong and well-explained. The example of aversion therapy is mentioned but is less developed. A more detailed explanation would strengthen this section.",
+                "c3": "Good. You have correctly referenced Pavlov's foundational work. The response would be stronger if you also included other relevant studies or figures, such as Mary Cover Jones or Joseph Wolpe, to broaden the evidence base.",
+                "c4": "Good. The writing is mostly formal and clear, and the structure is logical. There are a few minor grammatical slips and the referencing is incomplete. Be sure to follow full APA format for the reference list."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Attempts to explain classical conditioning but with some minor inaccuracies.",
+                "Provides a basic application of the theory to therapy, but the connection is vague.",
+                "Mentions a key study (Pavlov) but doesn't explain its relevance well.",
+                "Writing has some issues with clarity and an informal tone.",
+                "Referencing is inconsistent or incorrectly formatted."
+            ],
+            "llm_questions": [
+                "What is conditioning in psychology?",
+                "How do you fix a phobia?",
+                "Did Pavlov use a bell?",
+                "What is aversion therapy?"
+            ],
+            "llm_answers": [
+                "Conditioning is when you learn by association. Like when a bell means food is coming.",
+                "You can fix a phobia by making someone face their fear. You just have to show them the scary thing over and over until they get used to it.",
+                "Yes, Pavlov used a bell with his dogs to make them drool. It was the conditioned response.",
+                "Aversion therapy is when you make someone have a bad experience with something they like too much, like smoking. So they'll stop."
+            ],
+            "final_submission": "Classical Conditioning is a theory from the behaviorist school of psychology. It's about how we learn things. The most famous example is Pavlov and his dogs. He rang a bell when he fed them and after a while the dogs would drool just from the bell sound. The bell is the conditioned response. This learning can be used in therapy.\n\nFor example with phobias. If your scared of something like spiders, a therapist can use conditioning to help. They might use a method called systematic desensitization. They show you the spider and you learn to not be scared. They do this in steps, so you get used to it. The idea is to make a new connection in your brain where the spider isn't scary. There is also aversion therapy. This is for bad habits. You connect the habit with something bad, so you won't want to do it anymore. For example making a smoker feel sick when they have a cigarette. It is all about changing the learned behavior.",
+            "feedback": {
+                "c1": "Average. You have a basic grasp of classical conditioning, demonstrated by the Pavlov example. However, there's a minor inaccuracy where you identify the bell as the 'conditioned response' instead of the 'conditioned stimulus'. Reviewing these core terms would be beneficial.",
+                "c2": "Average. You identify two relevant therapies, but the application is basic. Your explanation of systematic desensitization is vague ('show you the spider and you learn to not be scared') and misses the key component of pairing the stimulus with relaxation.",
+                "c3": "Average. You correctly mention Pavlov's study, which is good. However, you don't fully explain its relevance to the therapeutic techniques you discuss. The connection between the foundational study and its application needs to be made more explicit.",
+                "c4": "Average. The submission has some issues with clarity and adopts a slightly informal tone. The structure is simple, and there are no references provided at the end. Remember to maintain a formal academic style and include a reference list."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Demonstrates a confused or limited understanding of classical conditioning.",
+                "The link between conditioning and therapy is weak or unclear.",
+                "Minimal or no supporting evidence from psychological studies is used.",
+                "Writing lacks clarity, formal tone, and structure.",
+                "No referencing is provided."
+            ],
+            "llm_questions": [
+                "What is psychology therapy?",
+                "Are phobias a big deal?",
+                "How does the brain learn stuff?"
+            ],
+            "llm_answers": [
+                "It's when you talk to a doctor about your problems and they help you.",
+                "Yes, some people are really scared of things and it makes their life hard.",
+                "The brain learns by making you do things over and over. If you do something good you get a reward, if you do something bad you get punished."
+            ],
+            "final_submission": "In psychology people can be treated for their problems like being afraid of things. This is called conditioning. It is when you reward good behavior and punish bad behavior. A therapist can use this for a patient who has a phobia, like being afraid of heights. If the patient goes up one floor in a building, the therapist can give them a reward, like a compliment. If they go up higher, they get a bigger reward. This will make them less afraid. This is how you can use conditioning principles in therapy practices. It helps people to change how they act by changing the results of their actions.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission demonstrates a confused understanding of the core topic. You have described principles of operant conditioning (rewards and punishments) rather than classical conditioning (learning through association). It is crucial to review the differences between these two foundational theories.",
+                "c2": "Needs Improvement. Because the underlying theory was misidentified, the application to therapy is weak. The example provided illustrates a technique related to operant conditioning, not classical conditioning methods like systematic desensitization or aversion therapy.",
+                "c3": "Needs Improvement. The discussion is not supported by any psychological evidence. The prompt asked for references to key studies (e.g., Pavlov, Watson), which are missing from your response.",
+                "c4": "Needs Improvement. The writing lacks a clear structure and academic formality. To improve, focus on organizing your ideas into paragraphs and using more formal language. No referencing was included."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to explain classical conditioning.",
+                "Makes no clear attempt to apply psychological principles to therapy.",
+                "Provides no supporting evidence.",
+                "Writing is disorganized, informal, and may be off-topic.",
+                "Lacks basic components of an academic response."
+            ],
+            "llm_questions": [
+                "what is a phobia",
+                "therapy is good?",
+                "who is pavlov"
+            ],
+            "llm_answers": [
+                "when ur scared of something",
+                "yes it helps people with problems",
+                "i dont know"
+            ],
+            "final_submission": "I think therapy is good for people. Phobias are bad and people should get help. My friend is scared of dogs and it is because a dog bit her. So now she is scared. maybe if she sees a nice dog she will be better. classical conditioning is a thing in psychology.",
+            "feedback": {
+                "c1": "Poor. The submission fails to explain classical conditioning. It only mentions the term without providing any definition or explanation of the principles involved.",
+                "c2": "Poor. There is no clear application of psychological principles to therapy as requested by the prompt. The response offers a brief personal anecdote rather than a discussion of established therapeutic techniques like systematic desensitization.",
+                "c3": "Poor. No supporting evidence from psychological studies or theory was provided to substantiate any claims. The prompt's requirement to include references was not met.",
+                "c4": "Poor. The writing is highly informal, disorganized, and does not address the prompt in a structured way. It lacks the basic elements of academic writing and does not include any referencing."
+            }
+        }
+    ]
+}

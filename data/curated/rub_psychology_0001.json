@@ -1,0 +1,207 @@
+{
+    "domain": "Psychology",
+    "prompt": "Critically evaluate the role of cognitive biases in human decision-making. Select at least three cognitive biases (e.g., confirmation bias, anchoring, availability heuristic) and explain how they influence decision-making in real-world scenarios (e.g., healthcare, law, relationships, consumer behavior). Discuss the psychological theories behind them and explore how awareness or mitigation strategies can improve judgment.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0001",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Conceptual Understanding of Biases",
+                "description": "Demonstrates comprehension of selected biases, including theoretical foundations.",
+                "performance_descriptors": {
+                    "excellent": "Shows precise and in-depth understanding of cognitive biases, with clear links to relevant psychological theories.",
+                    "good": "Understands biases well, though one may be less developed. Sound theoretical support.",
+                    "average": "Adequate explanation of at least two biases; minor inaccuracies present.",
+                    "needs_improvement": "Limited explanation with surface-level or confused understanding of biases.",
+                    "poor": "Major misunderstanding or misrepresentation of the biases or their definitions."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application to Real-World Scenarios",
+                "description": "Applies biases meaningfully to examples from everyday or professional contexts.",
+                "performance_descriptors": {
+                    "excellent": "Applies biases to a variety of insightful and relevant real-world cases, with clear articulation of cause-effect.",
+                    "good": "Examples are appropriate and mostly well explained; some links may be weaker.",
+                    "average": "Includes examples, but explanation lacks depth or connection is unclear.",
+                    "needs_improvement": "Examples are vague, generic, or disconnected from biases.",
+                    "poor": "No real-world application present."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Critical Evaluation and Mitigation Strategies",
+                "description": "Explores ways to recognize or reduce the impact of cognitive biases.",
+                "performance_descriptors": {
+                    "excellent": "Provides thoughtful, research-backed strategies to mitigate biases and reflects on psychological implications.",
+                    "good": "Discusses plausible strategies, though some may be underdeveloped or lacking in depth.",
+                    "average": "Mentions bias mitigation with limited detail or superficial treatment.",
+                    "needs_improvement": "Strategies are unclear or unrelated to specific biases.",
+                    "poor": "No discussion of mitigation or critical reflection."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Structure and Academic Writing",
+                "description": "Quality of writing, paragraph flow, citations, and tone.",
+                "performance_descriptors": {
+                    "excellent": "Highly coherent and academic in tone, with flawless grammar and proper referencing.",
+                    "good": "Mostly clear and professional; occasional grammar or structural issues.",
+                    "average": "Organization is present but with inconsistencies or awkward phrasing.",
+                    "needs_improvement": "Structure and tone hinder clarity; referencing or grammar needs work.",
+                    "poor": "Disorganized, informal, or unacademic; serious issues with readability."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Clearly define and differentiate at least three cognitive biases: confirmation bias, anchoring, and availability heuristic.",
+                "Link each bias to psychological theories such as dual-process theory, heuristics and biases framework, or schema theory.",
+                "Apply each bias to distinct real-world decision-making contexts like healthcare, legal judgments, and consumer behavior.",
+                "Include detailed cause-effect explanations of how the bias alters judgment or leads to flawed decisions.",
+                "Critically evaluate the limitations of human reasoning and propose specific mitigation strategies (e.g., training, checklists, blind procedures).",
+                "Structure the essay with a formal academic tone, logical progression, and APA referencing of psychological literature."
+            ],
+            "llm_questions": [
+                "Can you explain the cognitive mechanisms behind confirmation bias, anchoring, and the availability heuristic?",
+                "What psychological theories support the existence of these cognitive biases in decision-making?",
+                "How does confirmation bias influence medical decisions, such as diagnosis or treatment selection?",
+                "What is an example of anchoring bias in salary negotiation or consumer pricing?",
+                "How does the availability heuristic affect public risk perception, for example during a health crisis?",
+                "What are evidence-based strategies for mitigating cognitive biases in professional decision-making?"
+            ],
+            "llm_answers": [
+                "Confirmation bias is the tendency to search for and interpret information that confirms one's pre-existing beliefs. Anchoring is the reliance on the first piece of information offered when making decisions. The availability heuristic involves overestimating the likelihood of events that are more easily recalled in memory, often due to recent or vivid exposure.",
+                "These biases are explained by dual-process theories (Kahneman, 2011), which propose two systems of thinking: System 1 (fast, intuitive, emotional) and System 2 (slow, deliberative, logical). Biases are often shortcuts (heuristics) used by System 1 to reduce cognitive load.",
+                "In medicine, a physician with a preliminary diagnosis may unconsciously seek out confirming evidence (e.g., specific lab results) while downplaying data that contradicts their initial hypothesis, potentially leading to a misdiagnosis.",
+                "In salary negotiation, the first number stated (e.g., by the employer or candidate) acts as an anchor, influencing the range of all subsequent counteroffers. In consumer pricing, a high initial price (e.g., MSRP) makes a discounted price seem like a better deal, even if the discounted price is still high.",
+                "During a health crisis, extensive media coverage of a rare but frightening disease can make it seem more common than it is. This 'available' information can lead the public to overestimate their personal risk compared to more common but less reported threats like heart disease or seasonal flu.",
+                "Mitigation strategies include 'debiasing' training to increase awareness, using checklists and structured decision-making protocols (e.g., in aviation or surgery), implementing 'blind' procedures (e.g., blind peer review) to reduce personal bias, and actively seeking out disconfirming evidence or assigning a 'devil's advocate'."
+            ],
+            "final_submission": "Human decision-making, often presumed to be rational, is systematically influenced by cognitive biases—predictable errors in thinking that arise from the brain's attempt to simplify information processing. As proposed by dual-process theories, these biases are typically products of our fast, intuitive System 1 thinking, which relies on heuristics to navigate a complex world (Kahneman, 2011). This evaluation will explore three prominent biases—confirmation bias, anchoring, and the availability heuristic—examining their theoretical underpinnings, real-world impacts, and potential mitigation strategies.\n\nConfirmation bias, the tendency to favor information confirming one's existing beliefs, is a powerful force in professional domains. In healthcare, for instance, a clinician who forms an initial diagnostic hypothesis may subconsciously prioritize evidence that supports it while overlooking contradictory symptoms or test results, a path that can lead to diagnostic error (Croskerry, 2003). Similarly, the anchoring bias, our over-reliance on an initial piece of information, profoundly affects financial and legal judgments. Tversky and Kahneman's (1974) seminal work demonstrated how an arbitrary initial number could skew numerical estimates. In a courtroom, a prosecutor’s demand for a lengthy sentence can serve as a high anchor, influencing a judge's final decision even if they believe they are being impartial. Lastly, the availability heuristic, where we judge frequency by the ease of recall, shapes public risk perception. Vivid media coverage of a shark attack can inflate the perceived danger of swimming, while the statistically greater risk of drowning receives less attention and thus feels less probable.\n\nA critical evaluation reveals that these biases are not mere character flaws but fundamental aspects of human cognition. Awareness alone is often insufficient for correction. Effective mitigation requires structured interventions designed to engage our slower, more deliberate System 2 thinking. In medicine, implementing diagnostic checklists and mandating second opinions can counteract confirmation bias. For anchoring, strategies like 'considering the opposite' or generating alternative starting points before a negotiation can be effective. To combat the availability heuristic, decision-makers should rely on statistical data over anecdotal or vivid evidence. By embedding these debiasing techniques into professional workflows and personal habits, we can improve judgment and foster more rational, evidence-based decision-making.",
+            "feedback": {
+                "c1": "Excellent. Your submission provides a precise and nuanced understanding of the three selected biases. You have expertly integrated dual-process theory as the core theoretical foundation, explaining *why* these biases occur from a cognitive science perspective.",
+                "c2": "Excellent. The application of each bias to a distinct and high-stakes real-world scenario (healthcare, law, risk perception) is insightful and well-articulated. The cause-and-effect relationship between the bias and the outcome is made explicitly clear.",
+                "c3": "Excellent. You move beyond a simple list of strategies to a thoughtful discussion of research-backed mitigation techniques. The link between the strategy (e.g., checklists) and the specific bias it targets (e.g., confirmation bias) is strong and shows a deep level of critical thinking.",
+                "c4": "Excellent. The essay is impeccably structured with a clear introduction, body, and conclusion. The writing is academic, concise, and free of errors. The use of in-text citations (e.g., Kahneman, 2011) demonstrates proper academic practice."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Defines three cognitive biases (e.g., confirmation, anchoring, availability) with general accuracy.",
+                "Connects biases to a relevant psychological theory, like heuristics, but with less depth.",
+                "Applies biases to appropriate real-world examples, though the explanation of the link could be stronger in one case.",
+                "Discusses plausible mitigation strategies, but they may lack detail or research backing.",
+                "The essay is clearly written and structured, with only minor grammatical or stylistic issues."
+            ],
+            "llm_questions": [
+                "What are confirmation bias, anchoring, and the availability heuristic?",
+                "How do these biases relate to mental shortcuts?",
+                "Can you give an example of confirmation bias in relationships?",
+                "Where might we see the availability heuristic in action when people buy insurance?",
+                "What are some ways to avoid these biases?"
+            ],
+            "llm_answers": [
+                "Confirmation bias is when you look for information that agrees with what you already think. Anchoring is when you get stuck on the first piece of information you hear. The availability heuristic is thinking something is common just because you can easily remember an example of it.",
+                "These are all types of mental shortcuts, or heuristics. Our brains use them to make decisions faster without having to analyze everything, but sometimes they lead to mistakes.",
+                "In a relationship, if you suspect your partner is being distant, you might interpret their quietness as proof you are right, while ignoring that they might just be tired from work. You're confirming your own suspicion.",
+                "If the news shows a lot of stories about local floods, people might rush to buy flood insurance because the risk feels very real and 'available' in their minds, even if the statistical risk for their home hasn't changed.",
+                "You can try to be more aware of them. For confirmation bias, you can try to look for evidence that proves you wrong. For anchoring, you should try to ignore the first number you hear. For availability, you should look at statistics instead of just stories."
+            ],
+            "final_submission": "Cognitive biases are mental shortcuts that affect our decisions every day. Our brains use them to work more efficiently, but they can lead to bad judgments. This essay will look at three biases: confirmation bias, anchoring, and the availability heuristic. It will show how they work in the real world and discuss ways to mitigate them.\n\nFirst, confirmation bias is our tendency to find evidence that supports our existing beliefs. For example, in a relationship, if a person believes their partner is losing interest, they will focus on actions that confirm this, like a missed call, and ignore positive signs. Second, the anchoring bias is when we rely too heavily on the first piece of information offered. This is common in consumer behavior. A car dealership might show a very high initial sticker price, so the later 'sale' price seems like a fantastic deal, anchoring our perception of its value. Third, the availability heuristic is where we overestimate the importance of information that is easily recalled. After seeing multiple news reports about plane crashes, a person might feel that flying is more dangerous than driving, despite statistics showing the opposite. The dramatic, easily recalled information skews their judgment.\n\nTo improve our decision-making, we need to be aware of these biases. One strategy is to actively challenge our own assumptions. For confirmation bias, we can make an effort to find arguments against our viewpoint. For anchoring, we can try to research the true value of an item before entering a negotiation. For the availability heuristic, consulting real data and statistics rather than relying on memorable stories can help provide a more accurate picture. By practicing these techniques, we can make more rational and informed choices.",
+            "feedback": {
+                "c1": "Good. You have provided clear and accurate definitions for the three selected biases. You correctly identify them as mental shortcuts (heuristics), which provides sound theoretical support, though a deeper connection to models like dual-process theory would elevate this further.",
+                "c2": "Good. The examples for all three biases are appropriate and mostly well-explained. The application of anchoring to car sales is particularly clear. The relationship example for confirmation bias is good, but could be explained with a bit more detail on the psychological process.",
+                "c3": "Good. The mitigation strategies you've proposed are plausible and directly linked to each bias. To improve, you could provide more depth on *how* one might implement these strategies or reference research that supports their effectiveness.",
+                "c4": "Good. The essay is well-organized with a clear structure and professional tone. There are a few minor grammatical issues and some sentences could be phrased more academically, but overall, the writing is clear and effective."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Explains at least two biases adequately, but may contain minor inaccuracies or confuse terms.",
+                "Lacks a clear connection to psychological theories.",
+                "Provides examples, but the connection between the bias and the example is not fully explained or is superficial.",
+                "Mentions mitigation strategies but with very limited detail.",
+                "Writing and structure are okay, but there are some awkward phrases or organizational inconsistencies."
+            ],
+            "llm_questions": [
+                "What is a cognitive bias?",
+                "Can you name two biases and explain them?",
+                "Give me an example of confirmation bias.",
+                "How can you stop biases from happening?"
+            ],
+            "llm_answers": [
+                "A cognitive bias is when your brain makes a mistake in thinking, which affects your decisions.",
+                "Confirmation bias is when you only listen to things you already agree with. The availability bias is when you think something is common because you saw it on TV.",
+                "An example is if you think a certain political party is bad, you will only read news from sources that also say that party is bad.",
+                "You can stop biases by trying to think more carefully about your decisions and not jumping to conclusions."
+            ],
+            "final_submission": "Cognitive biases are errors in our thinking. They can cause us to make poor choices in our lives. I will discuss a few of these biases like confirmation bias and availability bias and how they work.\n\nConfirmation bias is when people favor information that confirms what they already think. For example, a person who believes that a certain brand of phone is the best will only look at positive reviews for that phone and ignore all the negative ones. This makes them more sure they are right, even if they aren't. Another bias is the availability heuristic. This is when something you can remember easily seems more important. For example, hearing about a lottery winner makes you think you have a good chance of winning too, even though the odds are very low. The story is just available in your mind.\n\nThese biases are also seen in important areas like the law. A judge might be biased by the first thing they hear in a case, which is a problem. To fix these problems, people should try to be more open-minded. Thinking about the other side of the argument can help reduce bias. If people were more aware of their biases, they could make better decisions.",
+            "feedback": {
+                "c1": "Average. You have provided an adequate explanation for confirmation bias and the availability heuristic. The definitions are generally correct but lack technical precision and a connection to any underlying psychological theories, which was a key part of the prompt.",
+                "c2": "Average. You have included relevant examples for the two biases you discussed. However, the explanation lacks depth. For the phone review example, explain *why* this biased search reinforces the decision. The example about the judge is mentioned but not clearly linked to a specific bias (e.g., anchoring).",
+                "c3": "Average. You have mentioned bias mitigation by suggesting people should be 'more open-minded' and 'think about the other side'. This is a good starting point, but the treatment is superficial. The prompt asked for a discussion of strategies, which requires more detail.",
+                "c4": "Average. The essay has a basic structure (introduction, body, conclusion). However, the organization is somewhat inconsistent, and some phrasing is awkward ('I will discuss a few of these biases like...'). The tone is a bit too informal for academic writing."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Attempts to define biases but the explanations are surface-level or confused.",
+                "Does not reference any psychological theories.",
+                "Examples are very generic, vague, or not clearly connected to the bias being discussed.",
+                "Mitigation strategies are unclear or not related to the specific biases.",
+                "Writing is disorganized and contains errors that make it difficult to understand."
+            ],
+            "llm_questions": [
+                "What is bias?",
+                "What is an example of a bias?",
+                "Is being biased bad?"
+            ],
+            "llm_answers": [
+                "Bias is when you have an opinion about something.",
+                "Like when a doctor thinks a patient is faking it. That's a bias.",
+                "Yes, it is bad because you are not being fair and can make mistakes."
+            ],
+            "final_submission": "Bias is a big problem in decision making. People are biased all the time and it makes them do things wrong. One bias is confirmation bias. This is when you are very confident. For example, a boss who is too confident might not listen to his employees and make a bad decision for the company. Another bias is when you see something a lot, you think it happens all the time. Like seeing crime on the news, so you think your city is very dangerous. This is why people are scared. To stop being bias, you should just be more fair to people and think hard before you decide something. You have to have an open mind.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission shows a limited and confused understanding of cognitive biases. The definition provided for confirmation bias ('when you are very confident') is incorrect. While the second example touches on the availability heuristic, it is not named or clearly defined.",
+                "c2": "Needs Improvement. The examples provided are vague and not clearly connected to the correct biases. The example of the 'confident boss' does not illustrate confirmation bias. The crime example is closer to the availability heuristic, but the connection is not explicitly made or explained.",
+                "c3": "Needs Improvement. The proposed strategy to 'be more fair' and 'have an open mind' is unclear and not linked to the specific cognitive mechanisms of the biases discussed. The prompt required a discussion of specific mitigation strategies.",
+                "c4": "Needs Improvement. The structure of the response is weak and lacks a clear, logical flow. There are several grammatical errors and the informal tone hinders clarity. The essay needs significant work on organization and academic writing conventions."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Major misunderstanding of what a cognitive bias is.",
+                "Provides no definitions or wildly incorrect ones.",
+                "Fails to provide any relevant real-world examples.",
+                "Does not discuss mitigation strategies.",
+                "Writing is disorganized, very informal, and difficult to comprehend."
+            ],
+            "llm_questions": [
+                "What did the prompt ask you to do?",
+                "What is a decision?",
+                "What is a bias?"
+            ],
+            "llm_answers": [
+                "Write about bias.",
+                "A decision is a choice.",
+                "It's like prejudice. Being mean to people because they are different."
+            ],
+            "final_submission": "People make decisions based on bias. Biases is like racism or other predjudice. For example, a manager might not hire someone because of where they come from. this is wrong. a doctor might not treat a patient right if they dont like them. Its important to be a good person and not have biases. Society needs to stop being so biased.",
+            "feedback": {
+                "c1": "Poor. The submission demonstrates a major misunderstanding of the topic. It conflates cognitive biases (systematic errors in thinking) with social prejudice (like racism). The definitions and concepts from the course material are not present in this response.",
+                "c2": "Poor. The submission does not apply cognitive biases to real-world scenarios as requested. Instead, it provides examples of social prejudice, which does not address the prompt about decision-making processes like anchoring or the availability heuristic.",
+                "c3": "Poor. There is no discussion of mitigation strategies for cognitive biases. The suggestion to 'be a good person' is not relevant to the psychological interventions required by the prompt.",
+                "c4": "Poor. The response is disorganized and does not resemble an academic essay. The writing is unacademic, and the serious issues with readability and relevance indicate a failure to engage with the assignment's requirements."
+            }
+        }
+    ]
+}

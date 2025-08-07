@@ -1,0 +1,202 @@
+{
+    "domain": "Psychology",
+    "prompt": "Short answer: What is the fundamental attribution error? Describe a real-life situation where someone might commit this error, and briefly explain its significance in social psychology.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0009",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Definition of Fundamental Attribution Error",
+                "description": "Provides an accurate and concise explanation of the concept.",
+                "performance_descriptors": {
+                    "excellent": "Clearly and correctly defines the fundamental attribution error using appropriate terminology.",
+                    "good": "Correct definition but with minor issues in clarity or completeness.",
+                    "average": "Basic or partially correct definition.",
+                    "needs_improvement": "Unclear or inaccurate definition.",
+                    "poor": "Fails to define the term."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application to Real-Life Example",
+                "description": "Illustrates the concept with a relevant situation.",
+                "performance_descriptors": {
+                    "excellent": "Provides a clear, specific example that effectively demonstrates the attribution error.",
+                    "good": "Relevant example with slight lack of clarity or connection.",
+                    "average": "Example is present but vague or underdeveloped.",
+                    "needs_improvement": "Example is unclear or not well connected to the concept.",
+                    "poor": "No relevant example provided."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Significance in Social Psychology",
+                "description": "Explains why the concept is important to understanding social behavior.",
+                "performance_descriptors": {
+                    "excellent": "Clearly explains the implications of the error for social interactions and judgments.",
+                    "good": "Addresses importance with reasonable insight.",
+                    "average": "Touches on significance without elaboration.",
+                    "needs_improvement": "Limited or unclear relevance.",
+                    "poor": "No discussion of significance."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Clarity and Brevity",
+                "description": "Presents the response in a clear, concise, and formal style.",
+                "performance_descriptors": {
+                    "excellent": "Answer is well-organized, concise, and maintains formal academic tone.",
+                    "good": "Mostly clear and concise with minor style issues.",
+                    "average": "Adequate clarity but may be wordy or informal.",
+                    "needs_improvement": "Writing is unclear or informal.",
+                    "poor": "Disorganized or lacks academic tone."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define the fundamental attribution error as the tendency to overemphasize dispositional factors and underestimate situational influences.",
+                "Provide a real-life example: e.g., assuming a colleague is lazy for missing a deadline without considering external factors.",
+                "Briefly explain the role of this bias in shaping how we judge others in everyday social interactions.",
+                "Highlight its significance in social psychology as a common cognitive bias affecting interpersonal understanding.",
+                "Use concise academic language suitable for a short-answer format."
+            ],
+            "llm_questions": [
+                "What is the fundamental attribution error and how is it defined in psychology?",
+                "Can you give a simple real-life example that illustrates this bias?",
+                "Why do people tend to make this kind of error when judging others?",
+                "How is this concept relevant to social psychology and interpersonal relationships?",
+                "What is a good way to phrase this in a short academic response?",
+                "What is the difference between dispositional and situational attribution?"
+            ],
+            "llm_answers": [
+                "The fundamental attribution error (FAE) is a cognitive bias where we tend to explain someone's behavior based on their internal, dispositional factors (like personality or character) while underestimating the impact of external, situational factors.",
+                "If a driver cuts you off, you might immediately think they are a reckless and inconsiderate person (dispositional), rather than considering they might be rushing to a hospital for an emergency (situational).",
+                "People often make this error because dispositional attributions are cognitively easier and quicker to make. We see the person, not the context around them, making the individual the most salient part of the situation.",
+                "The FAE is highly relevant because it helps explain how stereotypes, prejudice, and interpersonal conflicts can arise. It systematically distorts our judgments of others, often leading to unfair blame and misunderstanding.",
+                "A good academic response should start with a clear definition, followed by a specific example, and conclude with a statement on its significance, all written concisely and formally.",
+                "Dispositional attribution assigns the cause of behavior to an internal characteristic of a person, such as their personality, ability, or motive. Situational attribution assigns the cause to factors external to the person, such as the task, other people, or luck."
+            ],
+            "final_submission": "The fundamental attribution error (FAE) is the tendency for observers to overemphasize the influence of internal, dispositional factors on a person's behavior while underestimating the impact of external, situational factors. For example, if a coworker submits a report late, one might commit the FAE by concluding they are inherently lazy or disorganized (a dispositional attribution) instead of considering that they might have been dealing with a family emergency or an unexpected system failure (a situational attribution). This cognitive bias is significant in social psychology because it is a primary mechanism underlying social judgment and perception. It can lead to misunderstandings, unfair blame, and the reinforcement of stereotypes, profoundly affecting interpersonal relationships and our interpretation of social events.",
+            "feedback": {
+                "c1": "Excellent. Your definition of the FAE is both precise and comprehensive, correctly distinguishing between dispositional and situational factors using appropriate terminology.",
+                "c2": "Excellent. The example of the late coworker is clear, specific, and perfectly illustrates the FAE by contrasting the potential dispositional and situational attributions.",
+                "c3": "Excellent. You have clearly articulated the significance of the FAE in social psychology, linking it directly to crucial concepts like social judgment, blame, and stereotyping.",
+                "c4": "Excellent. The response is exceptionally well-written. It is concise, well-organized, and maintains a formal academic tone throughout, directly answering all parts of the prompt efficiently."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Correctly defines the fundamental attribution error as blaming people's personality over their situation.",
+                "Provides a relevant example, such as someone being rude.",
+                "Explains that this error is important for how we see others.",
+                "The response is mostly clear and answers the prompt."
+            ],
+            "llm_questions": [
+                "What is the fundamental attribution error?",
+                "Can you give an example of it?",
+                "Why is it important?",
+                "Is it always wrong to think someone's personality is the reason for their actions?"
+            ],
+            "llm_answers": [
+                "The fundamental attribution error is when you assume someone's actions are because of their personality, not because of the situation they are in.",
+                "For instance, if a cashier is rude to you, you might think they are just a rude person, but maybe they just had a very bad day or were yelled at by a previous customer.",
+                "It's important because it affects how we judge people. It can make us think someone is a bad person when they aren't, which can cause problems in relationships.",
+                "Not always, sometimes behavior is due to personality. The 'error' part refers to the *tendency* to automatically default to that explanation without considering other possibilities."
+            ],
+            "final_submission": "The fundamental attribution error is a bias where we tend to believe that what people do is based on who they are, rather than the situation they're in. For example, if you see someone trip and fall, you might think they are a clumsy person. You might not consider that the floor was wet. This is significant for social psychology because our judgments of other people are often based on this error. It can lead us to have negative views of others without understanding the full context of their actions, which is important for social harmony.",
+            "feedback": {
+                "c1": "Good. You have provided a correct definition of the FAE. To reach an 'Excellent' level, try incorporating the more formal terms 'dispositional' and 'situational' attributions for greater precision.",
+                "c2": "Excellent. The example of someone tripping is very clear and effectively demonstrates the concept.",
+                "c3": "Good. You correctly identify that the error affects our judgments of others. You could strengthen this by providing more specific implications, such as its role in stereotyping or conflict.",
+                "c4": "Good. The response is clear and answers the prompt. It's a little informal in tone ('who they are') but is otherwise well-structured."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Gives a basic idea of what the error is.",
+                "Provides an example that is somewhat related.",
+                "Mentions that it's important for judging people.",
+                "The writing is understandable but could be clearer."
+            ],
+            "llm_questions": [
+                "What's the attribution error?",
+                "Give me an example.",
+                "Why does it matter?",
+                "What does social psychology study?"
+            ],
+            "llm_answers": [
+                "It's about how you attribute things. You blame the person, not the outside stuff.",
+                "Like if a student fails a test. You think they are dumb, not that the test was hard.",
+                "It matters because you can judge someone wrong.",
+                "Social psychology studies how people think and act in groups."
+            ],
+            "final_submission": "The fundamental attribution error is when you blame a person for something they did. For example a student failing a test. The teacher might think the student is not smart, and that's the attribution error. It's significant because it's part of social psychology and it shows how we think about other people. You should look at the situation too, not just the person. It can cause problems if you are always blaming people for things.",
+            "feedback": {
+                "c1": "Average. You have a basic grasp of the concept—blaming the person—but the definition is incomplete. It needs to be more precise about the contrast between personal and situational causes.",
+                "c2": "Average. The example of the failing student is relevant, but it's underdeveloped. You mention the teacher's thought but don't explicitly state the situational alternative (e.g., a hard test, lack of sleep, etc.) that the teacher is ignoring.",
+                "c3": "Average. You state that the error is significant because 'it shows how we think about other people,' which is true but very general. To improve, elaborate on *what* it shows or *what kind* of problems it causes.",
+                "c4": "Average. The response is understandable but quite informal and a bit wordy. Try to use more academic language and structure your sentences to be more direct and concise."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Attempts to define the term but the definition is unclear.",
+                "Example provided is vague and not clearly connected to the definition.",
+                "Does not explain the significance in social psychology.",
+                "Writing is confusing and informal."
+            ],
+            "llm_questions": [
+                "What is an error in psychology?",
+                "What is an example of a bad judgement?",
+                "What is social psychology?",
+                "How do you write an answer for a psychology class?"
+            ],
+            "llm_answers": [
+                "An error is when you get something wrong.",
+                "Thinking someone is mean when they're not.",
+                "It's psychology about society.",
+                "You have to say what the thing is and give an example."
+            ],
+            "final_submission": "Fundamental attribution error is a mistake. Its when your first thought about a person is wrong because you dont know them. For example, if a person is driving fast. You think they are bad. But maybe they are not. Its about psychology in social situations, and how people are judged.",
+            "feedback": {
+                "c1": "Needs Improvement. The definition provided, 'a mistake... when your first thought about a person is wrong,' is too vague and inaccurate. The FAE is a specific type of error related to attributing causes to personality vs. situation. Please review the definition of this key term.",
+                "c2": "Needs Improvement. The example of the fast driver is a starting point, but it's not connected to your definition or the concept of the FAE. You need to explain *why* we think they are 'bad' (a personal trait) and what situational factor we might be ignoring.",
+                "c3": "Needs Improvement. The response mentions 'psychology in social situations' but does not explain the *significance* of the FAE. Why is this specific error important for understanding social behavior? This part of the prompt is missing.",
+                "c4": "Needs Improvement. The writing is very informal and lacks clarity. The sentences are disconnected, making the overall point difficult to follow. Focus on writing in complete, clear sentences with a more academic tone."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to define the fundamental attribution error.",
+                "Does not provide a relevant example.",
+                "Does not discuss significance.",
+                "Response is disorganized and off-topic."
+            ],
+            "llm_questions": [
+                "What does attribution mean?",
+                "What is psychology?",
+                "How do you answer a test question?"
+            ],
+            "llm_answers": [
+                "I don't know.",
+                "The study of the mind.",
+                "You write what you know."
+            ],
+            "final_submission": "People judge other people all the time. Psychology is about the brain and how we think. Some people are just bad and do bad things. That is their personality. Socially it is not good to judge.",
+            "feedback": {
+                "c1": "Poor. This response does not define the fundamental attribution error. To answer the prompt, you must start by explaining what the term means.",
+                "c2": "Poor. No example illustrating the fundamental attribution error was provided. The statement that 'Some people are just bad' is an opinion and doesn't demonstrate understanding of the concept.",
+                "c3": "Poor. The submission does not address the significance of the fundamental attribution error in social psychology.",
+                "c4": "Poor. The response is disorganized, lacks an academic tone, and does not address the specific requirements of the prompt."
+            }
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "domain": "Psychology",
+    "prompt": "Short answer: What is the difference between trait and state anxiety? Provide examples and explain how each is measured in psychological research.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0007",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Definition and Differentiation",
+                "description": "Defines and distinguishes between trait and state anxiety.",
+                "performance_descriptors": {
+                    "excellent": "Clearly and accurately defines both terms and explains the difference with relevant examples.",
+                    "good": "Defines both concepts with minor issues or slightly unclear distinction.",
+                    "average": "Provides definitions but lacks clarity or precise differentiation.",
+                    "needs_improvement": "Inaccurate or unclear definitions with little distinction.",
+                    "poor": "Fails to define or differentiate the terms."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application and Examples",
+                "description": "Uses examples to illustrate trait vs. state anxiety.",
+                "performance_descriptors": {
+                    "excellent": "Provides clear, relevant examples for both types of anxiety.",
+                    "good": "Examples are appropriate but not fully developed.",
+                    "average": "Includes examples but they may be vague or repetitive.",
+                    "needs_improvement": "Examples are unclear or only loosely connected.",
+                    "poor": "No relevant examples provided."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Measurement in Research",
+                "description": "Explains how trait and state anxiety are assessed in psychology.",
+                "performance_descriptors": {
+                    "excellent": "Describes appropriate measurement tools (e.g., STAI) and their use in research settings.",
+                    "good": "Mentions tools or methods with some accuracy.",
+                    "average": "Refers to measurement but lacks detail or correctness.",
+                    "needs_improvement": "Limited or confused understanding of how anxiety is measured.",
+                    "poor": "No discussion of measurement."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Clarity and Conciseness",
+                "description": "Presents ideas clearly and concisely using formal academic style.",
+                "performance_descriptors": {
+                    "excellent": "Answer is focused, well-structured, and maintains academic tone within word limit.",
+                    "good": "Mostly clear and academic with slight issues in tone or structure.",
+                    "average": "Adequate clarity but may be wordy or loosely structured.",
+                    "needs_improvement": "Unclear or informal writing with poor flow.",
+                    "poor": "Disorganized or inappropriate tone for academic writing."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define trait anxiety as a stable personality characteristic.",
+                "Define state anxiety as a temporary emotional condition triggered by situational factors.",
+                "Provide examples: trait anxiety (always anxious in social situations), state anxiety (nervous before a test).",
+                "Mention the State-Trait Anxiety Inventory (STAI) as a validated tool used in psychological research.",
+                "Explain how trait and state anxiety are measured separately using different subscales.",
+                "Use concise, clear academic language in a short-answer format."
+            ],
+            "llm_questions": [
+                "What is the difference between trait and state anxiety?",
+                "Can you give examples that show how trait anxiety differs from state anxiety?",
+                "How do psychologists measure trait and state anxiety in experiments?",
+                "What is the STAI and how does it assess anxiety?",
+                "Why is it important to differentiate between trait and state anxiety in research?"
+            ],
+            "llm_answers": [
+                "Trait anxiety is a stable personality dimension reflecting a person's general tendency to perceive situations as threatening. In contrast, state anxiety is a transient emotional condition characterized by subjective feelings of tension and apprehension in response to a specific situation.",
+                "An example of high trait anxiety is an individual who consistently feels nervous and worried in most social interactions. An example of state anxiety is a student feeling their heart race and palms sweat specifically before a major final exam.",
+                "Psychologists primarily measure both using validated self-report questionnaires. The most common is the State-Trait Anxiety Inventory (STAI).",
+                "The STAI is a widely used instrument that has two distinct subscales. The 'T-Anxiety' scale assesses trait anxiety by asking individuals how they 'generally' feel, while the 'S-Anxiety' scale assesses state anxiety by asking how they feel 'right now, at this moment'.",
+                "Differentiating them is crucial in research to understand if anxiety is a persistent characteristic of the individual or a reaction to a specific experimental manipulation or life event. This distinction enhances the validity of research findings on stress and emotion."
+            ],
+            "final_submission": "Trait anxiety refers to a stable personality characteristic, a long-term disposition to experience anxiety and perceive a wide range of situations as threatening. In contrast, state anxiety is a temporary and transient emotional state in response to a specific situational trigger, characterized by physiological arousal and feelings of apprehension. For example, an individual with high trait anxiety may feel perpetually worried in various social settings, whereas any person might experience state anxiety, like sweaty palms and a racing heart, just before giving a public speech. In psychological research, both are commonly measured using the State-Trait Anxiety Inventory (STAI). This self-report tool has two separate subscales: the T-Anxiety scale assesses one's general feelings to measure trait anxiety, while the S-Anxiety scale assesses feelings 'at this moment' to measure state anxiety.",
+            "feedback": {
+                "c1": "Excellent. The definitions provided for both trait and state anxiety are precise, accurate, and clearly distinguish between a stable disposition and a transient condition.",
+                "c2": "Excellent. The examples of a generally worried person versus someone anxious before a speech are highly relevant and effectively highlight the core difference between the two constructs.",
+                "c3": "Excellent. You have correctly identified the State-Trait Anxiety Inventory (STAI) and accurately explained how its two distinct subscales are used to measure each type of anxiety in a research context.",
+                "c4": "Excellent. The response is exceptionally clear, concise, and well-structured. It maintains a formal academic tone and efficiently addresses all parts of the prompt."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Defines trait anxiety as being an anxious person in general.",
+                "Defines state anxiety as feeling anxious due to a current situation.",
+                "Distinction between the two is mostly clear.",
+                "Provides appropriate examples (worrying about opinions vs. exam nerves).",
+                "Mentions measurement via questionnaires or surveys.",
+                "Writing is clear and answers the prompt directly."
+            ],
+            "llm_questions": [
+                "What's the main idea behind trait vs. state anxiety?",
+                "Can you give an example of each?",
+                "How do we measure anxiety?",
+                "Can you help me phrase this in a paragraph?"
+            ],
+            "llm_answers": [
+                "Trait anxiety is when you're just an anxious person in general, it's part of your personality. State anxiety is when you get anxious because of a specific thing that's happening, like a test.",
+                "An example of trait anxiety is someone who is always worried about what other people think of them. State anxiety would be feeling nervous right before an important job interview.",
+                "Psychologists use surveys or questionnaires where people rate how anxious they feel.",
+                "To put it together, you can start by defining trait anxiety as a general personality thing, then define state anxiety as a reaction to a situation. Give your examples for each. Finally, mention that it's measured with surveys."
+            ],
+            "final_submission": "The difference between trait and state anxiety is that trait anxiety is part of someone's personality, meaning they are generally an anxious person. State anxiety is more temporary and happens because of a certain situation. For instance, a person with high trait anxiety is often worried about what others think, while state anxiety is like getting nervous before a big exam. In research, psychologists measure these by giving people questionnaires or surveys where they have to rate their feelings of anxiety.",
+            "feedback": {
+                "c1": "Good. You have correctly defined both trait and state anxiety in accessible terms. The distinction is mostly clear, but could be sharpened by using more formal psychological language like 'stable disposition' versus 'transient emotional state'.",
+                "c2": "Good. The examples provided are appropriate and help to illustrate the difference. Elaborating slightly on how one is situational while the other is a general tendency would further strengthen the point.",
+                "c3": "Good. Your mention of using questionnaires to measure anxiety is correct. To reach an 'Excellent' level, you could name a specific, validated instrument like the STAI to show deeper knowledge.",
+                "c4": "Good. The answer is clear and addresses the prompt. The structure is logical, and the tone is mostly academic, though it leans slightly informal. A very solid response."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Gives a basic definition of trait anxiety (nervous personality).",
+                "Gives a basic definition of state anxiety (situational).",
+                "Differentiation is present but lacks precision.",
+                "Examples are implied but not stated clearly and separately.",
+                "Mentions that anxiety is measured by asking people questions.",
+                "Writing is understandable but could be better structured."
+            ],
+            "llm_questions": [
+                "What is trait anxiety?",
+                "What is state anxiety?",
+                "How do you find out if someone is anxious?"
+            ],
+            "llm_answers": [
+                "Trait anxiety is like your personality, if you're a nervous type of person.",
+                "State anxiety is when a situation makes you feel anxious.",
+                "You can measure it by asking people questions about how anxious they feel on a scale or something.",
+                "Anxiety is also when you worry a lot."
+            ],
+            "final_submission": "Trait anxiety is when you have a nervous personality and tend to worry a lot. State anxiety is more about the situation, so a specific thing makes you feel anxious. For example, some people are just always more nervous than others. To measure it, psychologists can just ask people questions about how they are feeling to see how anxious they are.",
+            "feedback": {
+                "c1": "Average. You have a basic grasp of the concepts, identifying trait anxiety with personality and state anxiety with the situation. However, the definitions lack the precision expected in a university-level response. The distinction could be much clearer.",
+                "c2": "Average. You allude to an example with 'some people are just always more nervous than others,' but the prompt requires clear, separate examples for both trait and state anxiety to illustrate the difference effectively.",
+                "c3": "Average. Your statement that measurement involves 'asking people questions' is correct in a general sense, but it lacks specific details about the scientific tools, like standardized inventories, used in psychological research.",
+                "c4": "Average. The response is understandable but loosely structured. Try to organize your answer by clearly defining each term first, then providing a distinct example for each, and finally discussing measurement."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Defines anxiety in very general terms (worrying).",
+                "Mentions the terms 'trait' and 'state' but doesn't explain them.",
+                "Fails to make a clear distinction between the two.",
+                "Does not provide relevant examples.",
+                "Explanation of measurement is vague and unscientific ('by how they act').",
+                "Writing is informal and lacks structure."
+            ],
+            "llm_questions": [
+                "What is anxiety?",
+                "Are there different kinds of anxiety?",
+                "How do you know if someone has anxiety?"
+            ],
+            "llm_answers": [
+                "Anxiety is when you worry a lot about stuff.",
+                "Yes, there's trait anxiety which is a trait you have, and state anxiety which is about the state you're in.",
+                "You can tell by how they act, like if they are nervous or shaking.",
+                "It's not a good feeling."
+            ],
+            "final_submission": "Anxiety is when you worry all the time. There is trait anxiety and state anxiety. One is a trait and one is a state of being. You can tell if someone has it by how they act. It is not a good feeling to have anxiety.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission provides a very general definition of anxiety but does not accurately define or differentiate between trait and state anxiety. The terms are mentioned but not explained.",
+                "c2": "Needs Improvement. No specific examples are provided to illustrate the difference between trait and state anxiety, which is a key requirement of the prompt.",
+                "c3": "Needs Improvement. The answer mentions observing behavior ('how they act') but does not address how these psychological constructs are formally measured in research using scientific methods.",
+                "c4": "Needs Improvement. The response is unclear and lacks the structure and formal tone expected in academic writing. It's important to read the prompt carefully and address each of its specific parts."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to define trait or state anxiety.",
+                "Does not differentiate between the terms.",
+                "Provides no relevant examples.",
+                "No discussion of psychological measurement.",
+                "Response is disorganized and does not address the prompt."
+            ],
+            "llm_questions": [
+                "What is the question about?",
+                "What does 'trait' mean?",
+                "What does 'anxiety' mean?"
+            ],
+            "llm_answers": [
+                "The question is about two types of anxiety.",
+                "I'm not sure.",
+                "Anxiety is a feeling of being scared or worried. Everyone gets anxious sometimes before a test or something. It is normal.",
+                "I don't know how they measure it."
+            ],
+            "final_submission": "Anxiety is a big problem. Many people feel scared or worried about things like school or work. It is normal to feel this way sometimes. Being anxious is not fun. Psychology helps people with this problem.",
+            "feedback": {
+                "c1": "Poor. The response fails to define or differentiate between trait and state anxiety. The core concepts of the prompt were not addressed.",
+                "c2": "Poor. No examples were provided to illustrate the concepts of trait and state anxiety.",
+                "c3": "Poor. There is no discussion of how anxiety is measured in psychological research, which was a specific part of the question.",
+                "c4": "Poor. The submission is disorganized and does not answer the question asked. It is crucial to read the prompt carefully and structure your response to address each of its requirements."
+            }
+        }
+    ]
+}

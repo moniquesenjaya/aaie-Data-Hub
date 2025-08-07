@@ -1,0 +1,209 @@
+{
+    "domain": "Psychology",
+    "prompt": "Describe the key features of Piagets theory of cognitive development. Choose one stage and explain how it manifests in real-world behavior in children. Use examples and relate your discussion to educational or parenting practices.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0008",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Piagets Theory",
+                "description": "Demonstrates knowledge of the stages and concepts in Piagets model.",
+                "performance_descriptors": {
+                    "excellent": "Accurately explains all major stages and core ideas such as schemas, assimilation, and accommodation.",
+                    "good": "Explains key aspects with some minor omissions or simplifications.",
+                    "average": "Covers the theory but lacks detail or clarity in some areas.",
+                    "needs_improvement": "Limited or partially incorrect understanding of theory.",
+                    "poor": "Fails to explain Piagets theory meaningfully."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application of Selected Stage",
+                "description": "Explores how one stage appears in childrens behavior using real-world examples.",
+                "performance_descriptors": {
+                    "excellent": "Applies stage-specific characteristics (e.g., egocentrism, conservation) to practical examples with clear explanation.",
+                    "good": "Examples are appropriate but less developed or specific.",
+                    "average": "Examples are general or loosely connected to theory.",
+                    "needs_improvement": "Vague or unclear real-life application.",
+                    "poor": "No meaningful application to behavior."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Connection to Practice",
+                "description": "Relates theory to education or parenting strategies.",
+                "performance_descriptors": {
+                    "excellent": "Clearly links developmental features to relevant practices (e.g., scaffolding, play-based learning).",
+                    "good": "Connection is evident but less detailed.",
+                    "average": "Basic connection made with limited elaboration.",
+                    "needs_improvement": "Weak or generic mention of practice.",
+                    "poor": "No connection to educational or parenting context."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Expression",
+                "description": "Presents information with clarity, organization, and proper APA referencing.",
+                "performance_descriptors": {
+                    "excellent": "Highly readable, formal tone, well-structured and correctly referenced.",
+                    "good": "Generally well-written with small issues.",
+                    "average": "Adequate clarity and tone; minor referencing inconsistencies.",
+                    "needs_improvement": "Writing lacks polish or citation accuracy.",
+                    "poor": "Disorganized or informal with incorrect referencing."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Outline Piagets four stages: sensorimotor, preoperational, concrete operational, formal operational.",
+                "Define core concepts such as assimilation, accommodation, and schemas.",
+                "Select one stage (e.g., preoperational) and explain key features like egocentrism and symbolic thinking.",
+                "Provide an example like a child using pretend play or failing a conservation task.",
+                "Explain how this understanding helps guide teaching strategies or parenting approaches (e.g., using concrete examples or play-based learning).",
+                "Use academic tone and APA-style referencing throughout."
+            ],
+            "llm_questions": [
+                "What are the four stages of Piagets theory of cognitive development?",
+                "Can you explain the difference between assimilation and accommodation?",
+                "What behaviors are typical of children in the preoperational stage?",
+                "How can teachers or parents support learning during this stage?",
+                "How do I cite Piagets work in APA format?"
+            ],
+            "llm_answers": [
+                "The four stages are: Sensorimotor (0-2 years), Preoperational (2-7 years), Concrete Operational (7-11 years), and Formal Operational (11+ years).",
+                "Assimilation is using an existing schema to deal with a new object or situation. Accommodation is when the existing schema (knowledge) does not work, and needs to be changed to deal with a new object or situation.",
+                "Typical behaviors include egocentrism (inability to see a situation from another's point of view), centration (focusing on only one aspect of a situation), and symbolic thought (using objects to represent others, like a broom for a horse).",
+                "Teachers can use play-based learning, which leverages symbolic thought. They should also use concrete props and visual aids, as abstract thought is not yet developed. Parents can support this by encouraging pretend play and understanding that a child's egocentrism isn't selfishness, but a developmental limitation.",
+                "For a classic work, you would cite it as: Piaget, J. (1936). *Origins of intelligence in the child*. Routledge & Kegan Paul."
+            ],
+            "final_submission": "Jean Piaget's theory of cognitive development posits that children progress through four distinct stages of mental development, driven by a fundamental need to understand and make sense of the world. Central to this theory are the concepts of schemas (mental frameworks for organizing information), assimilation (fitting new information into existing schemas), and accommodation (adapting schemas to incorporate new information). The four stages are the sensorimotor stage (0-2 years), where infants learn through senses and actions; the preoperational stage (2-7 years); the concrete operational stage (7-11 years), where logical thought emerges; and the formal operational stage (11+ years), characterized by abstract reasoning (Piaget, 1936).\n\nThe preoperational stage is particularly fascinating as it marks a significant shift towards symbolic thinking, yet is still constrained by cognitive limitations. A key feature of this stage is egocentrism, the child's inability to see a situation from another person's perspective. For instance, a four-year-old might hide from you by covering their own eyes, assuming that if they can't see you, you can't see them. Another hallmark is the development of symbolic play, where a child uses one object to stand in for another, such as using a banana as a telephone. This demonstrates a growing ability to form mental representations separate from the physical world.\n\nUnderstanding the preoperational stage has profound implications for educational and parenting practices. For educators, it underscores the importance of play-based learning environments that allow children to explore symbolic representation. As children in this stage struggle with abstract concepts and are often 'centered' on one aspect of a problem (like height over width in conservation tasks), teachers should use concrete props and visual aids. For parents, recognizing egocentrism as a developmental phase rather than selfishness can lead to more patient and effective communication, for example, by physically showing a child another's point of view rather than just verbally explaining it. By aligning teaching and parenting with a child's cognitive capabilities, we can create more supportive and effective learning environments.\n\nReference\nPiaget, J. (1936). *Origins of intelligence in the child*. Routledge & Kegan Paul.",
+            "feedback": {
+                "c1": "Excellent. You have accurately explained all four of Piaget's stages and clearly defined the core concepts of schemas, assimilation, and accommodation. This demonstrates a thorough and robust understanding of the theory.",
+                "c2": "Excellent. Your application of the preoperational stage is exemplary. The examples of egocentrism (hiding by covering eyes) and symbolic play (banana phone) are specific, clear, and perfectly illustrate the theoretical concepts.",
+                "c3": "Excellent. The connection to practice is strong and well-articulated. You have provided distinct, actionable strategies for both educators (play-based learning, visual aids) and parents (understanding egocentrism), directly linking them to the features of the preoperational stage.",
+                "c4": "Excellent. The submission is well-structured, written in a clear and formal academic tone, and the in-text citation and reference list are correctly formatted according to APA style."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Lists Piaget's four stages of development.",
+                "Briefly explains core ideas but may be less detailed on assimilation/accommodation.",
+                "Chooses the preoperational stage and describes a key feature like egocentrism.",
+                "Gives an appropriate but general example of behavior.",
+                "Connects the stage to a relevant parenting or teaching idea.",
+                "Writing is clear with minor formatting or style issues."
+            ],
+            "llm_questions": [
+                "What are Piaget's main stages?",
+                "What does egocentrism mean?",
+                "Can you give an example for the preoperational stage?",
+                "How does this relate to teaching kids?",
+                "How do I write a reference for a book?"
+            ],
+            "llm_answers": [
+                "The stages are sensorimotor, preoperational, concrete operational, and formal operational.",
+                "Egocentrism is when a kid can't see things from someone else's point of view. They think everyone sees what they see.",
+                "An example is a child in a game of hide-and-seek hiding behind a curtain that doesn't fully cover them. They think because they can't see the seeker, the seeker can't see them.",
+                "It shows that teachers need to be very direct and use hands-on activities because kids at this age can't think abstractly. They need to see things to understand them.",
+                "You need the author's last name, first initial, the year, the title of the book in italics, and the publisher. For example: Piaget, J. (1936). *The child's conception of the world*. Publisher."
+            ],
+            "final_submission": "Piaget's theory of cognitive development describes how children think and reason at different ages. He proposed four stages: sensorimotor, preoperational, concrete operational, and formal operational. The theory is based on the idea that children build their knowledge through experience, using what Piaget called schemas to understand things. They use assimilation to fit new things into their existing ideas and accommodation to change their ideas for new information.\n\nI will focus on the preoperational stage, which lasts from about age 2 to 7. A major part of this stage is egocentrism. This means the child has difficulty understanding that other people have different perspectives and thoughts. For example, a young child might tell you about a dream they had and get frustrated when you don't know the characters in it, because they assume you experienced the dream too. They can't separate their own knowledge from others'.\n\nThis is important for parents and teachers. A teacher in a preschool classroom needs to know that when a child grabs a toy from another, it might not be intentional malice but a genuine inability to understand the other child's desire for the toy. Therefore, instead of punishing, the teacher should use simple, direct language to mediate, like 'It's Tom's turn now, then it will be your turn.' For parents, it means being patient and realizing that their child is not just being 'selfish' but is operating according to their developmental stage.\n\nReference\nPiaget, J. (1936). The Child's Conception of the World.",
+            "feedback": {
+                "c1": "Good. You have correctly identified the four stages and the core concepts. The explanation of assimilation and accommodation is present, though it could be slightly more detailed to fully distinguish between the two processes.",
+                "c2": "Good. The selection of the preoperational stage and the focus on egocentrism is appropriate. The example provided is relevant and illustrates the concept well, although it could be connected more explicitly to the theory.",
+                "c3": "Good. You have made a clear connection to both parenting and teaching practices. The examples of teacher mediation and parental patience are practical and relevant. To improve, you could expand on specific educational strategies beyond conflict resolution.",
+                "c4": "Good. The submission is generally well-written and organized. The tone is appropriate for an academic piece. The reference is missing the publisher details, which is a minor error in APA formatting."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Lists the four stages but with minimal description.",
+                "Mentions some concepts but with unclear definitions.",
+                "Selects a stage but describes it in very general terms.",
+                "The example is loosely connected to the theory.",
+                "Makes a basic connection to parenting or teaching.",
+                "Writing is understandable but may have some awkward phrasing or referencing errors."
+            ],
+            "llm_questions": [
+                "What are the 4 stages of piaget?",
+                "What does preoperational mean?",
+                "What's an example of this?",
+                "How does this help parents?"
+            ],
+            "llm_answers": [
+                "Sensorimotor, Preoperational, Concrete, and Formal.",
+                "It's the stage where kids are around 2-7. They can talk but don't think logically. They are very self-centered.",
+                "Like when a kid thinks the moon is following them in the car. They think everything is about them.",
+                "It helps parents understand why their kids act a certain way. So they know the kid isn't being bad, they just can't think like an adult yet."
+            ],
+            "final_submission": "Piaget was a psychologist who had a theory on child development. His theory has four stages that everyone goes through. The stages are Sensorimotor, Preoperational, Concrete, and Formal. These stages explain how kids think as they get older. It's about how they build their knowledge of the world.\n\nThe preoperational stage is for kids aged 2 to 7. A key feature is that they are very egocentric. This is when they think everyone sees what they see and thinks what they think. An example of this is when a child thinks the moon is following them when they are in the car at night. They can't understand that other people in other cars see the moon too, or that it's just in the sky and not moving with them. They see it from their own point of view.\n\nThis theory is useful for people who work with kids. For example, parents can use this to be more understanding. If a child is being egocentric, the parent knows its a phase and part of their development. So they don't have to get mad at them for being selfish, they just need to guide them.",
+            "feedback": {
+                "c1": "Average. You have correctly listed Piaget's four stages. However, the description of the theory is very brief and lacks detail on key concepts like schemas, assimilation, and accommodation, which are necessary for a full explanation.",
+                "c2": "Average. You have identified egocentrism within the preoperational stage. The example of the moon following the car is a classic one, but your explanation connects it only loosely to the concept of egocentrism without fully explaining the cognitive limitation at play.",
+                "c3": "Average. A basic connection to parenting has been made, noting that understanding the theory can help parents be more patient. To improve, you should elaborate on this with more specific strategies or also consider the implications for education.",
+                "c4": "Average. The writing is adequate and conveys the main points, though the tone is somewhat informal. The submission lacks any form of academic referencing (in-text citations or a reference list), which is a requirement for academic work."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Incorrectly lists or confuses the stages.",
+                "Shows a limited or incorrect understanding of the theory.",
+                "Application to a real-world example is vague or unclear.",
+                "Weak or generic mention of any practical application.",
+                "Writing lacks clarity and organization."
+            ],
+            "llm_questions": [
+                "Are there 3 or 4 stages in piagets theory?",
+                "What is the operational stage?",
+                "What do kids do?",
+                "Do parents need to know this?"
+            ],
+            "llm_answers": [
+                "I think there are four stages, like sensory and operational.",
+                "The operational stage is when kids can operate things and think logically.",
+                "Kids play a lot and they think about themselves. They can't share very well.",
+                "Yes, it can help them understand their kids."
+            ],
+            "final_submission": "Piagets theory is about how kids learn. There are a few stages. One is the sensory stage where they use their senses. Then there is the operational stage, where they start to think more. In this stage, kids are very focused on themselves. They cant really share because they dont understand why they should. For example, a kid might take a toy from another kid. This is because he wants it and doesnt think about the other kid. This theory shows that we need to teach kids to share and be nice. Parents should know about this so they can teach their kids things when they are ready to learn them.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission shows a limited and partially incorrect understanding of Piaget's theory. The stages are not correctly named or described (e.g., 'operational stage' is not a single stage), and core concepts are missing.",
+                "c2": "Needs Improvement. The example of a child taking a toy is mentioned, but its connection to a specific concept from Piaget's theory, like egocentrism, is not made clear. The application remains vague and could be interpreted as simple misbehavior rather than a cognitive limitation.",
+                "c3": "Needs Improvement. There is a weak and generic mention that parents should teach children to share. This does not adequately connect the theory to specific, informed parenting or educational strategies as required by the prompt.",
+                "c4": "Needs Improvement. The writing lacks structure and polish. Sentences are very simple and the overall response feels disorganized. There are no academic citations or references included."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to describe Piaget's theory.",
+                "Does not identify or explain any stage.",
+                "No meaningful example or application is provided.",
+                "No connection to education or parenting is made.",
+                "Disorganized and informal writing."
+            ],
+            "llm_questions": [
+                "Who is Piaget?",
+                "What is cognitive development?",
+                "What am I supposed to write about?"
+            ],
+            "llm_answers": [
+                "A guy who studied kids.",
+                "I'm not sure, something about the brain.",
+                "How kids grow up and learn stuff."
+            ],
+            "final_submission": "Children develop in many ways. They learn to walk and talk. When they are little they play a lot. As they get older they go to school and learn things like math and reading. It's important for them to have friends and learn to be nice to other people. All children are different and learn at there own speed. You have to be patient with them.",
+            "feedback": {
+                "c1": "Poor. The submission fails to explain Piaget's theory in any meaningful way. The stages and core concepts of the theory are not mentioned.",
+                "c2": "Poor. There is no attempt to choose one of Piaget's stages and apply it to children's behavior with real-world examples as the prompt requires.",
+                "c3": "Poor. While there is a generic statement about being patient with children, there is no connection made between this idea and Piaget's theory or any specific developmental features.",
+                "c4": "Poor. The response is informal, disorganized, and does not resemble an academic submission. It completely fails to address the prompt's requirements for structure, clarity, and referencing."
+            }
+        }
+    ]
+}

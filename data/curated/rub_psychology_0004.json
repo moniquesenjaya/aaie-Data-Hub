@@ -1,0 +1,201 @@
+{
+    "domain": "Psychology",
+    "prompt": "Evaluate how memory is reconstructed and how this affects the reliability of eyewitness testimony. Your response should refer to relevant cognitive theories and experimental studies (e.g., Loftus & Palmer). Consider implications for the legal system and include real or hypothetical examples.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0004",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Memory Reconstruction",
+                "description": "Demonstrates conceptual understanding of how memory is reconstructed and the cognitive processes involved.",
+                "performance_descriptors": {
+                    "excellent": "Clearly explains reconstructive memory using cognitive models and includes terminology like schema, misinformation effect, and retrieval cues.",
+                    "good": "Demonstrates solid understanding, though one or two concepts may lack depth.",
+                    "average": "Covers key ideas but lacks precision or completeness.",
+                    "needs_improvement": "Limited explanation or use of incorrect terms.",
+                    "poor": "Fails to explain memory reconstruction."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Integration of Research Evidence",
+                "description": "Refers to and explains relevant cognitive psychology studies and their findings.",
+                "performance_descriptors": {
+                    "excellent": "Integrates at least two relevant studies (e.g., Loftus & Palmer) with detailed discussion of results and implications.",
+                    "good": "Refers to relevant studies with some interpretation.",
+                    "average": "Mentions studies without sufficient explanation or connection.",
+                    "needs_improvement": "Minimal or unclear reference to studies.",
+                    "poor": "No use of supporting studies."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Legal and Real-World Application",
+                "description": "Explores how reconstructive memory affects the accuracy of eyewitness testimony and the justice system.",
+                "performance_descriptors": {
+                    "excellent": "Applies theory to real/hypothetical legal scenarios; discusses implications for court procedures or witness reliability.",
+                    "good": "Makes appropriate links to legal context; examples may be basic.",
+                    "average": "Some application present, but lacks clarity or insight.",
+                    "needs_improvement": "Weak or vague reference to real-world implications.",
+                    "poor": "No application beyond theory."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Structure, Tone, and Referencing",
+                "description": "Maintains academic clarity, organization, and APA citation.",
+                "performance_descriptors": {
+                    "excellent": "Well-structured, clearly written, formal tone, accurate APA referencing.",
+                    "good": "Generally organized with minor writing or citation issues.",
+                    "average": "Some inconsistency in tone or referencing.",
+                    "needs_improvement": "Unclear writing or referencing errors.",
+                    "poor": "Disorganized or lacks referencing."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define reconstructive memory and how it differs from simple recall.",
+                "Explain schema theory and how it influences memory reconstruction.",
+                "Discuss the misinformation effect and its impact on eyewitness accuracy.",
+                "Analyze findings from studies such as Loftus & Palmer car crash experiment.",
+                "Apply these findings to legal scenarios, like courtroom testimony or police interviews.",
+                "Discuss implications for legal reform (e.g., use of cognitive interviews, jury instructions).",
+                "Use academic tone, structured writing, and APA-style referencing."
+            ],
+            "llm_questions": [
+                "What is reconstructive memory and how does it affect the reliability of recall?",
+                "How do schemas influence what people remember or misremember?",
+                "Can you explain the Loftus and Palmer (1974) experiment on eyewitness testimony?",
+                "What is the misinformation effect and how does it work?",
+                "How can memory distortion influence the outcome of legal trials?"
+            ],
+            "llm_answers": [
+                "Reconstructive memory, a concept pioneered by Bartlett, posits that memory is not a passive, verbatim recording of events but an active process of rebuilding past experiences. This reconstruction is guided by our pre-existing knowledge and beliefs (schemas), making it prone to errors and distortions, thus affecting its reliability.",
+                "Schemas are mental frameworks or concepts that help us organize and interpret information. When we retrieve a memory, we may unconsciously fill in gaps with schema-consistent details that were not part of the original event, or we might distort information to better fit our existing schema, leading to inaccuracies.",
+                "Loftus and Palmer (1974) showed participants a film of a car accident. They then asked a leading question about the speed of the cars, using different verbs (e.g., 'smashed', 'collided', 'contacted'). Participants who heard 'smashed' gave higher speed estimates. A week later, they were more likely to falsely remember seeing broken glass, demonstrating how post-event information can alter memory.",
+                "The misinformation effect occurs when a person's recall of an event is altered after being exposed to misleading post-event information. This new, incorrect information becomes integrated with the original memory, making it difficult for the individual to distinguish between what they actually witnessed and what they were told later.",
+                "Memory distortion can lead to wrongful convictions, as jurors often perceive eyewitness testimony as highly reliable. A confident but inaccurate witness can be very persuasive. Misleading questions during police interviews or pre-trial preparation can inadvertently contaminate a witness's memory, fundamentally compromising the integrity of their testimony and the fairness of the trial."
+            ],
+            "final_submission": "Memory is not a veridical recording of past events but is rather a reconstructive process, profoundly influencing the reliability of eyewitness testimony. Cognitive theories, particularly Bartlett's (1932) schema theory, posit that memory is an active reconstruction guided by our pre-existing mental frameworks, or schemas. When an individual recalls an event, they piece together fragments of the experience, filling in gaps with schema-consistent information. This process, while efficient, introduces vulnerability to distortion. A key phenomenon demonstrating this is the misinformation effect, where post-event information alters the original memory. \n\nSeminal research by Loftus and Palmer (1974) provides powerful evidence for this. In their study, participants who viewed a film of a car accident and were asked how fast the cars were going when they 'smashed' into each other reported higher speeds than those asked the same question with the verb 'contacted'. Furthermore, those exposed to the more aggressive verb were more likely to later falsely recall seeing broken glass. This illustrates that subtle changes in language, or retrieval cues, can fundamentally alter an individual's memory of an event. These findings demonstrate that memory is malleable and susceptible to suggestion, a critical issue in legal contexts.\n\nThe implications for the legal system are significant. An eyewitness's memory can be contaminated by leading questions from police, discussions with other witnesses, or media reports. For example, a police officer asking, 'Did you see the gun?' instead of 'Did you see a weapon?' might implant a false memory of a specific object. This can lead to a highly confident but factually inaccurate testimony, which juries often find compelling, potentially resulting in wrongful convictions. Consequently, legal systems have begun to adapt by implementing procedures like the Cognitive Interview, which uses open-ended questions to minimize suggestion, and providing expert testimony to educate juries on the fallibility of human memory. Such measures are essential for mitigating the risks posed by the inherently reconstructive nature of memory. \n\nReferences:\nBartlett, F. C. (1932). *Remembering: A study in experimental and social psychology*. Cambridge University Press.\nLoftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. *Journal of Verbal Learning and Verbal Behavior, 13*(5), 585–589.",
+            "feedback": {
+                "c1": "Excellent. Your explanation of reconstructive memory is clear and precise. You have effectively used key terminology like 'schema', 'misinformation effect', and 'retrieval cues' to demonstrate a deep conceptual understanding.",
+                "c2": "Excellent. You have seamlessly integrated the classic Loftus and Palmer (1974) study, not just describing it, but thoroughly explaining its methodology, findings, and, crucially, its implications for the theory of reconstructive memory. Citing Bartlett (1932) also adds historical depth.",
+                "c3": "Excellent. The application to the legal system is insightful and well-developed. You've provided a specific, hypothetical example of a leading question and discussed concrete implications for legal procedures, such as the Cognitive Interview, showing a strong grasp of real-world relevance.",
+                "c4": "Excellent. The submission is very well-structured with a logical flow from theory to evidence to application. The tone is consistently academic and professional, and your use of APA-style referencing is accurate."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Defines memory as a reconstructive process.",
+                "Explains that memory can be influenced by post-event information.",
+                "Describes the Loftus and Palmer (1974) study and its main finding.",
+                "Connects memory fallibility to the reliability of eyewitnesses in a legal context.",
+                "The response is generally well-organized and clearly written."
+            ],
+            "llm_questions": [
+                "What is reconstructive memory in simple terms?",
+                "What did the Loftus and Palmer car crash study show?",
+                "How can a witness's memory be changed?",
+                "Why is this important for court cases?"
+            ],
+            "llm_answers": [
+                "Reconstructive memory means that when we remember something, we're not just playing a video. We're rebuilding the memory, and our expectations and later experiences can change it.",
+                "The Loftus and Palmer study showed that the words used to ask a question can alter memory. When they used the word 'smashed' instead of 'hit', people remembered the car going faster and even remembered broken glass that wasn't there.",
+                "A witness's memory can be changed by leading questions from police, talking to other people about what happened, or seeing news reports. This new information can get mixed in with their original memory.",
+                "It's important because eyewitnesses can be very convincing in court, but their memory might not be accurate. If their memory was accidentally changed, an innocent person could be convicted."
+            ],
+            "final_submission": "The human memory does not work like a video camera that perfectly records events. Instead, it is a reconstructive process, meaning that we rebuild our memories each time we recall them. This makes memory open to being changed, which has a big effect on how reliable eyewitness testimony is. When we remember something, we can be influenced by our own expectations or by information we receive after the event.\n\nThe famous study by Loftus and Palmer (1974) on car accidents is a great example of this. They showed people a video of a crash and then asked them about the speed. When they used the word 'smashed', people gave higher speed estimates compared to when they used the word 'contacted'. This shows that just one word can change how someone remembers an event. This is often called the misinformation effect, where new info can distort the original memory.\n\nThis has very serious implications for the legal system. An eyewitness might see a crime, but later, when being interviewed by police, the way a question is phrased could alter their memory. For instance, if a witness is asked about 'the' man with the red hat, they might incorporate a red hat into their memory even if there wasn't one. Because juries tend to believe eyewitnesses, especially confident ones, this can lead to major problems like sending the wrong person to jail. Therefore, understanding that memory is reconstructive is critical for evaluating evidence in court. (Loftus & Palmer, 1974).",
+            "feedback": {
+                "c1": "Good. You have a solid understanding of memory as a reconstructive process and correctly identify that it's susceptible to post-event information. To improve, you could introduce and explain the concept of 'schemas' to add more theoretical depth.",
+                "c2": "Good. You have referred to the Loftus and Palmer study appropriately and explained its core findings and relevance well. The interpretation is sound. For an excellent mark, you could discuss both parts of the study (the speed estimate and the broken glass question) to show a more detailed understanding.",
+                "c3": "Good. You make clear and appropriate links between memory research and the legal context, using a reasonable hypothetical example. The discussion of jury perception is a strong point. The analysis could be deepened by considering specific police or court procedures.",
+                "c4": "Good. The essay is generally well-organized and clearly written. The tone is appropriate for an academic piece. The referencing is a bit informal; ensure you use the full, correct APA format for in-text citations and a complete reference list at the end."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "States that memory is not always accurate.",
+                "Mentions the Loftus study about car crashes.",
+                "Makes a simple connection between memory errors and problems with eyewitnesses.",
+                "The structure is basic and writing may contain some informalities.",
+                "Lacks key psychological terminology."
+            ],
+            "llm_questions": [
+                "Is memory like a recording?",
+                "What's an example of memory being wrong?",
+                "How does this relate to police and courts?"
+            ],
+            "llm_answers": [
+                "No, memory is not like a recording. It can be changed and have mistakes in it.",
+                "There was a study where people watched a car crash. When asked about it with a strong word like 'smashed', they said the car was going faster than when asked with a soft word like 'hit'.",
+                "It relates because police might ask a witness a question that makes them remember something wrong. Then the witness tells the court the wrong thing."
+            ],
+            "final_submission": "Memory is not always a reliable source of information. People can remember things incorrectly, and this is called reconstructive memory. It means we build our memories up from pieces of information, and sometimes we get it wrong. This is a big problem for eyewitness testimony.\n\nA study by Loftus proved this. She had people watch a car crash, and then she asked them how fast the cars were going. For some people, she used the verb 'smashed', and for others, she used 'hit'. The 'smashed' group said the cars were going faster. This shows that questions can change your memory of what you saw.\n\nIn the real world, this means that eyewitnesses can be unreliable. What they say in court might not be what actually happened. Their memory could have been changed by something they heard or by the police questions. So we shouldn't always trust eyewitnesses 100% because their memory can be faulty.",
+            "feedback": {
+                "c1": "Average. You have correctly identified the basic idea that memory is not always accurate. However, your explanation lacks precision. To improve, you need to use and explain key psychological terms like 'misinformation effect' and 'schema' to show a deeper understanding of the cognitive processes involved.",
+                "c2": "Average. You have mentioned the Loftus study, which is relevant. However, you only describe the study's procedure and outcome without sufficiently explaining its connection to the theory of reconstructive memory or discussing its wider implications in detail.",
+                "c3": "Average. You make a connection to the legal system, but it is quite general. You state that witnesses can be unreliable, but you don't explore the specific implications for court procedures or provide clear examples of how this might play out in a real or hypothetical legal scenario.",
+                "c4": "Average. The submission has a basic structure, but the writing is somewhat informal. There are no references provided, which is a significant omission in academic writing. Always include a reference list for any studies or theories you mention."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Vaguely states that memory can be wrong.",
+                "Attempts to mention a study but with unclear or incorrect details.",
+                "Makes a weak or confusing link to eyewitnesses.",
+                "Writing is unclear and disorganized.",
+                "No use of psychological terminology or referencing."
+            ],
+            "llm_questions": [
+                "Can you trust your memory?",
+                "What is that car crash experiment?",
+                "Why is this about court?"
+            ],
+            "llm_answers": [
+                "No, because your brain can change things.",
+                "It's a study where a psychologist asked people about a car crash to show their memory was bad.",
+                "Because witnesses in court have to remember things and sometimes they are wrong."
+            ],
+            "final_submission": "Sometimes you cant trust your memory. The brain can play tricks on you and you remember something that didnt happen, which is reconstruction. This is bad for when someone is an eye witness to a crime.\n\nThere was an experiment about this. With cars. A scientist showed that if you ask someone a question in a certain way they will give a different answer about what they saw. She asked them about cars hitting each other. It proves that memory can be changed.\n\nSo in court, a person might think they remember something but they are wrong. This is a problem for justice. The persons testimony is not reliable and could be wrong. So we need to be careful.",
+            "feedback": {
+                "c1": "Needs Improvement. Your explanation of reconstructive memory is very limited and uses incorrect terms (e.g., 'brain playing tricks'). The response lacks any discussion of the cognitive models or theories that underpin this concept. You need to review the definitions of key terms from the course material.",
+                "c2": "Needs Improvement. There is a minimal reference to 'an experiment... with cars', but it is too vague and lacks the necessary details (like the researcher's name or specific findings) to demonstrate genuine understanding. You must cite and explain research evidence to support your claims.",
+                "c3": "Needs Improvement. The connection to the legal system is weak and presented as a series of simple, undeveloped statements. You need to explain *how* and *why* memory issues affect witness reliability and what the consequences are.",
+                "c4": "Needs Improvement. The submission is poorly structured, with very short paragraphs that do not develop a clear argument. The writing is unclear in places, and there are no citations or references, which is a critical failure in academic work."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to address the concept of reconstructive memory.",
+                "Does not mention any psychological studies or theories.",
+                "Makes no meaningful connection to eyewitness testimony or the legal system.",
+                "The response is disorganized, off-topic, or extremely brief."
+            ],
+            "llm_questions": [
+                "What is memory?",
+                "What is an eyewitness?",
+                "What am I supposed to write about?"
+            ],
+            "llm_answers": [
+                "Memory is when you remember stuff.",
+                "An eyewitness is someone who saw something happen.",
+                "You're supposed to write about memory and courts."
+            ],
+            "final_submission": "People forget things all the time. It's normal. Some people have good memory and some have bad memory. When you are a witness you have to have a good memory or the wrong person might get in trouble. You should always tell the truth about what you saw.",
+            "feedback": {
+                "c1": "Poor. This submission fails to explain the concept of memory reconstruction. The response only provides a common-sense opinion about memory and does not engage with the psychological theory required by the prompt.",
+                "c2": "Poor. There is no use of supporting studies or any reference to psychological research. The prompt specifically required you to refer to studies like Loftus and Palmer to support your evaluation.",
+                "c3": "Poor. The submission makes a brief, simplistic statement about witnesses but does not apply any psychological theory to the legal context. There is no discussion of the implications for the justice system as requested.",
+                "c4": "Poor. The response is extremely brief, disorganized, and does not meet the standards of academic writing. It reads as a personal opinion rather than an academic evaluation and lacks any structure or referencing."
+            }
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "domain": "Psychology",
+    "prompt": "In 400-600 words, explain how stereotypes influence how people perceive and judge others. Discuss the psychological processes involved (e.g., schema theory, implicit bias, confirmation bias) and provide real-world or hypothetical examples. Your writing should be structured as a formal academic essay with clear arguments and APA-style referencing.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0010",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Introduction & Thesis",
+                "description": "Effectiveness of the introduction and clarity of thesis statement.",
+                "performance_descriptors": {
+                    "excellent": "Captivating introduction clearly sets the topic and includes a focused, insightful thesis that previews key points.",
+                    "good": "Clear introduction with a relevant thesis that previews the essays structure.",
+                    "average": "Introduction and thesis are present but lack clarity or specificity.",
+                    "needs_improvement": "Introduction is vague and thesis is underdeveloped or hard to identify.",
+                    "poor": "Introduction is missing or off-topic; thesis is absent."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Use of Psychological Theory",
+                "description": "Application and understanding of relevant psychological concepts.",
+                "performance_descriptors": {
+                    "excellent": "Demonstrates mastery of psychological concepts (e.g., schema, stereotype formation, implicit cognition) with accurate and nuanced explanation.",
+                    "good": "Accurately uses theories with mostly clear explanation; one or two small gaps or simplifications.",
+                    "average": "Uses appropriate concepts but with limited explanation or partial misunderstandings.",
+                    "needs_improvement": "Mentions theory but shows limited understanding or contains factual errors.",
+                    "poor": "Misunderstands or omits psychological theories entirely."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Application & Examples",
+                "description": "Use of real-world or hypothetical examples to illustrate concepts.",
+                "performance_descriptors": {
+                    "excellent": "Provides rich, relevant real-world or hypothetical examples that clearly illustrate the psychological concepts.",
+                    "good": "Good examples used with generally effective connections to the topic.",
+                    "average": "Examples are somewhat relevant but lack depth or clarity in linking to theory.",
+                    "needs_improvement": "Vague or underdeveloped examples; weak connection to psychological ideas.",
+                    "poor": "No examples provided, or examples are irrelevant or incorrect."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Development of Argument",
+                "description": "Clarity, structure, and critical thinking in the argument.",
+                "performance_descriptors": {
+                    "excellent": "Ideas are fully developed, well-reasoned, and demonstrate critical thinking and synthesis.",
+                    "good": "Points are logical and clear, with mostly solid development of argument.",
+                    "average": "Argument is understandable but may be shallow or loosely structured.",
+                    "needs_improvement": "Argument is weakly developed, repetitive, or missing logical links.",
+                    "poor": "No clear argument; content is confusing, unfocused, or incoherent."
+                }
+            },
+            {
+                "criterion_id": "c5",
+                "name": "Conclusion",
+                "description": "Effectiveness of the closing paragraph in reinforcing ideas.",
+                "performance_descriptors": {
+                    "excellent": "Strong conclusion that reinforces the thesis and leaves a lasting impression; fully wraps up essay.",
+                    "good": "Conclusion restates the thesis clearly and provides closure.",
+                    "average": "Conclusion is present but somewhat vague or mechanical.",
+                    "needs_improvement": "Conclusion is rushed or doesn't reinforce main points effectively.",
+                    "poor": "No meaningful conclusion is provided."
+                }
+            },
+            {
+                "criterion_id": "c6",
+                "name": "Language, Structure & Style",
+                "description": "Grammar, tone, transitions, and clarity of writing.",
+                "performance_descriptors": {
+                    "excellent": "Academic language is fluent and sophisticated; grammar, transitions, and paragraphing are nearly flawless.",
+                    "good": "Mostly formal tone and clear writing; few minor errors in grammar or structure.",
+                    "average": "Language is readable but inconsistently academic; some grammar or flow issues.",
+                    "needs_improvement": "Writing lacks clarity or formality; multiple grammar or cohesion issues.",
+                    "poor": "Writing is unclear, informal, and riddled with errors that hinder understanding."
+                }
+            },
+            {
+                "criterion_id": "c7",
+                "name": "APA Referencing",
+                "description": "Accuracy of APA-style citation and source usage.",
+                "performance_descriptors": {
+                    "excellent": "APA guidelines followed precisely with all sources properly cited and referenced.",
+                    "good": "Minor APA errors; all required sources are cited.",
+                    "average": "Some issues with APA formatting or missing a citation.",
+                    "needs_improvement": "Several APA formatting issues; some sources not cited.",
+                    "poor": "No citations provided or APA format not attempted."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define stereotypes as cognitive schemas used to simplify social information.",
+                "Explain how schema theory supports stereotype activation and perception filtering.",
+                "Discuss implicit bias and how automatic associations can guide judgement unconsciously.",
+                "Explain confirmation bias as a mechanism that sustains existing stereotypes.",
+                "Provide real-world examples, such as racial profiling or workplace bias.",
+                "Use theories and research evidence to explain how stereotypes influence behaviour and perception.",
+                "Organize the essay with a clear thesis, logical argument structure, and academic language.",
+                "Cite all sources in APA style throughout the essay."
+            ],
+            "llm_questions": [
+                "What is schema theory and how does it relate to stereotypes?",
+                "What is the difference between implicit bias and explicit bias?",
+                "How does confirmation bias reinforce stereotypes in everyday thinking?",
+                "Can you give real-world examples of how stereotypes influence judgment?",
+                "What psychological research supports the impact of stereotypes on perception?"
+            ],
+            "llm_answers": [
+                "Schema theory posits that our brains organize information into cognitive frameworks, or schemas, to process new information efficiently. Stereotypes are a type of social schema, which are mental shortcuts about groups of people. When we encounter someone from a stereotyped group, our brain may activate this schema, influencing how we interpret their behavior.",
+                "Explicit bias is conscious and deliberate; it reflects attitudes and beliefs that we endorse on a conscious level. Implicit bias, however, is unconscious and automatic. It involves associations that we may not even be aware of but that can still influence our judgments and actions, often in ways that conflict with our explicit values.",
+                "Confirmation bias is the tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs. When it comes to stereotypes, this means we are more likely to notice and remember behaviors that fit our stereotype of a group, while ignoring or dismissing behaviors that contradict it, thereby strengthening the original stereotype.",
+                "A clear real-world example is in hiring processes. A manager with an implicit bias that women are less assertive than men might interpret a female candidate's confident statement as 'aggressive,' while perceiving the same statement from a male candidate as 'demonstrating leadership.' This shows how the stereotype filters the perception of the exact same behavior.",
+                "Extensive research, including studies using the Implicit Association Test (IAT), demonstrates the pervasive nature of implicit bias (Greenwald et al., 1998). Additionally, classic studies on stereotype threat by Steele and Aronson (1995) show how being aware of a negative stereotype about one's group can negatively impact performance, confirming the powerful influence of stereotypes on behavior."
+            ],
+            "final_submission": "Stereotypes, while often rooted in social and cultural narratives, are fundamentally cognitive phenomena that profoundly shape human perception and judgment. As mental shortcuts, they allow for rapid processing of the complex social world, but often at the cost of accuracy and fairness. This essay will argue that stereotypes influence perception and judgment through a combination of automatic cognitive processes, including schema activation, implicit bias, and confirmation bias. By examining these psychological mechanisms, it becomes clear how stereotypes are not just learned prejudices but are actively maintained and reinforced through everyday cognitive functions.\n\nAt the core of stereotyping lies schema theory, which posits that humans organize knowledge into cognitive frameworks to simplify information processing (Fiske & Taylor, 2017). Stereotypes are a form of social schema, providing a pre-packaged set of beliefs and expectations about members of a particular group. When an individual encounters someone from a stereotyped group, the corresponding schema is often automatically activated. This activation filters perception, directing attention towards schema-consistent information and away from inconsistent data. For example, if an individual holds a stereotype that a certain nationality is reserved, they are more likely to interpret a neutral expression on a person of that nationality as aloofness, while ignoring their moments of warmth and friendliness.\n\nThis automatic activation is closely linked to implicit bias—unconscious associations that influence judgment without conscious awareness (Greenwald et al., 1998). An individual may explicitly disavow prejudice but still harbor implicit biases that affect their split-second decisions. A powerful real-world example is found in law enforcement, where an officer's implicit association of a racial group with criminality can lead to racial profiling, such as disproportionately stopping individuals from that group for minor infractions. The officer may not be consciously racist but is acting on deeply ingrained, automatic associations that frame their perception of a situation as more threatening than it is.\n\nFurthermore, stereotypes are notoriously persistent due to confirmation bias, the cognitive tendency to seek out and favor information that confirms pre-existing beliefs. Once a stereotype is in place, individuals subconsciously look for evidence that supports it. If a manager holds a stereotype that older workers are less tech-savvy, they will likely notice every instance of an older employee asking for IT help while overlooking their proficiency in other software. This selective attention reinforces the original stereotype, creating a feedback loop that makes the belief seem more and more justified over time, even in the face of contradictory evidence (Nickerson, 1998).\n\nIn conclusion, stereotypes exert a powerful influence over social perception and judgment through a trio of interconnected psychological processes. Schema theory explains their origin as cognitive shortcuts, implicit bias demonstrates their automatic and unconscious operation, and confirmation bias reveals the mechanism by which they are stubbornly maintained. These processes show that stereotyping is not merely a flaw in moral character but a feature of cognitive architecture that can lead to biased judgments with significant real-world consequences. Recognizing these cognitive drivers is a critical first step towards mitigating their impact and fostering more equitable social interactions.\n\nReferences\nFiske, S. T., & Taylor, S. E. (2017). *Social cognition: From brains to culture*. Sage.\nGreenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit association test. *Journal of Personality and Social Psychology, 74*(6), 1464–1480.\nNickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220.",
+            "feedback": {
+                "c1": "Excellent. The introduction is engaging and effectively establishes the context and significance of the topic. The thesis statement is exceptionally clear, insightful, and provides a perfect roadmap for the essay by previewing the key psychological processes to be discussed.",
+                "c2": "Excellent. You demonstrate a mastery-level understanding of schema theory, implicit bias, and confirmation bias. The explanations are not only accurate but also nuanced, effectively synthesizing how these concepts work together to influence perception.",
+                "c3": "Excellent. The examples provided—hiring decisions, law enforcement, and workplace evaluations—are rich, relevant, and powerfully illustrate the theoretical concepts. You do a superb job of explicitly linking the examples back to the psychological mechanisms being discussed.",
+                "c4": "Excellent. The argument is sophisticated, well-reasoned, and flows logically from one point to the next. The essay demonstrates strong critical thinking by not just listing concepts, but integrating them into a coherent and compelling explanation of stereotyping.",
+                "c5": "Excellent. The conclusion provides a strong synthesis of the essay's main points without being repetitive. It effectively reinforces the thesis and offers a thought-provoking final statement on the importance of understanding these cognitive processes.",
+                "c6": "Excellent. The language is sophisticated and consistently academic in tone. The writing is fluent, with seamless transitions between paragraphs. Grammar and syntax are virtually flawless, contributing to the overall clarity and professionalism of the essay.",
+                "c7": "Excellent. All in-text citations and the reference list are formatted perfectly according to APA 7th edition guidelines. You have used credible academic sources to support your claims effectively."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Defines stereotypes and introduces the main psychological concepts.",
+                "Accurately explains schema theory, implicit bias, and confirmation bias.",
+                "Provides relevant real-world examples, like in hiring or daily interactions.",
+                "Argument is logical and easy to follow.",
+                "Essay has a clear introduction, body paragraphs, and conclusion.",
+                "Writing is mostly clear and formal, with few errors.",
+                "Most sources are cited correctly in APA style, with minor errors."
+            ],
+            "llm_questions": [
+                "What are stereotypes?",
+                "How do schemas work?",
+                "Can you explain confirmation bias with an example?",
+                "Is implicit bias the same as being prejudiced?",
+                "How should I end my essay?"
+            ],
+            "llm_answers": [
+                "Stereotypes are oversimplified ideas or beliefs about a particular group of people. They act as mental shortcuts but can often be inaccurate and lead to prejudice.",
+                "Schemas are like mental filing cabinets. When we learn new information, we fit it into existing categories, or schemas. Stereotypes are a type of schema for social groups, which helps us process information about people quickly.",
+                "Confirmation bias is when you look for information that supports what you already believe. For example, if you believe a certain sports team is aggressive, you will notice all their fouls but ignore their sportsmanship, which 'proves' to you that they are aggressive.",
+                "Not exactly. Prejudice is usually a conscious negative attitude. Implicit bias is unconscious and automatic. You can consciously believe in equality but still have an implicit bias that affects your actions without you realizing it.",
+                "You should summarize your main points—how schemas, implicit bias, and confirmation bias explain stereotyping—and restate your thesis in a new way. End by making a final point about why understanding this is important."
+            ],
+            "final_submission": "Stereotypes are a common part of social life that affect how we see and evaluate other people. They are simplified beliefs about groups of people that can lead to unfair judgments. The way stereotypes influence us can be explained by several psychological processes. This essay will discuss how schema theory, implicit bias, and confirmation bias work together to shape our perceptions of others, using real-world examples to show how these concepts operate.\n\nThe first process is related to schema theory. Schemas are mental structures that help us organize information. When we think about groups of people, we use social schemas, which are stereotypes (Fiske & Taylor, 2017). These schemas act like filters. For instance, if you have a stereotype that librarians are quiet, you will expect a librarian you meet to be quiet. This expectation guides your interaction and how you interpret their behavior, even before they do anything.\n\nNext, implicit bias plays a role. Implicit biases are unconscious attitudes that affect our judgments. Even if someone says they are not prejudiced, they might have automatic negative associations with a certain group (Greenwald et al., 1998). A good example is in a job interview. A manager might unconsciously favor a candidate who comes from a similar background to them because of an implicit 'in-group' preference. They might feel the person is a 'better fit' without a logical reason, which is the implicit bias at work.\n\nFinally, confirmation bias makes stereotypes very hard to change. This is the tendency for people to look for evidence that confirms what they already believe. If someone believes that teenagers are reckless drivers, they will pay more attention to news stories about car accidents involving teens. They will ignore stories about safe teenage drivers or accidents caused by other age groups. This makes their original belief seem correct and stronger over time.\n\nIn conclusion, stereotypes influence our judgments through powerful psychological mechanisms. Schemas provide the mental framework, implicit bias operates automatically, and confirmation bias reinforces the stereotypes. These processes show that stereotyping is a natural cognitive function that can have negative social results. Understanding them is key to becoming more aware of our own biases and making fairer judgments about others.\n\nReferences\nFiske, S. T., and Taylor, S. E. (2017). *Social cognition: From brains to culture*. Sage.\nGreenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit association test. *Journal of Personality and Social Psychology, 74*(6), 1464–1480.",
+            "feedback": {
+                "c1": "Good. The introduction is clear and sets out the topic effectively. The thesis statement is present and accurately previews the main points of the essay, providing a solid structure for the reader to follow.",
+                "c2": "Good. You have accurately described the key psychological concepts of schema theory, implicit bias, and confirmation bias. The explanations are clear, though they could be a bit more nuanced in how they interrelate. For instance, a stronger link could be made between schema activation and implicit bias.",
+                "c3": "Good. The examples used (librarian, job interview, teen drivers) are relevant and help illustrate the concepts. To reach the 'Excellent' level, try to explain more explicitly *how* the cognitive process in the example leads to a specific perceptual or judgmental outcome.",
+                "c4": "Good. The argument is logical and the points are presented clearly in their own paragraphs. The overall development is solid. The essay follows a clear path from theory to example, which makes it easy to understand your reasoning.",
+                "c5": "Good. The conclusion successfully restates the thesis and summarizes the main arguments. It provides a sense of closure to the essay. It could be strengthened by offering a slightly more insightful final thought.",
+                "c6": "Good. The writing is clear and maintains a mostly formal, academic tone. There are a few minor grammatical slips and some sentences could be structured more fluently, but these do not hinder comprehension.",
+                "c7": "Good. You have cited sources to support your claims and included a reference list. There are some minor formatting errors in the reference list (e.g., use of 'and' instead of '&'). Overall, a good attempt at APA style."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "States that stereotypes affect judgment.",
+                "Mentions relevant concepts like schemas and bias.",
+                "Provides a simple or generic example.",
+                "The argument is understandable but not well-developed.",
+                "Has a basic intro/body/conclusion structure.",
+                "Language is readable but has some informalities or errors.",
+                "Attempts to cite sources, but with noticeable errors."
+            ],
+            "llm_questions": [
+                "What's a stereotype?",
+                "What is schema theory?",
+                "Is bias the same as stereotyping?",
+                "How do I write an essay?"
+            ],
+            "llm_answers": [
+                "It's when you have a fixed idea about what a group of people is like.",
+                "It's a theory about how our brain sorts things. Like putting files in a folder.",
+                "They are related. A stereotype is the belief, and bias is how that belief makes you act or judge things, sometimes without realizing it.",
+                "You need an introduction to say what you'll talk about, then paragraphs for each point, and a conclusion to wrap it up."
+            ],
+            "final_submission": "Stereotypes are when you judge people based on a group they are in. This is a big problem in society and it influences how we perceive people all the time. Psychology has theories about why this happens. This essay will talk about how stereotypes influence how people perceive and judge others by looking at schemas, bias, and giving examples.\n\nOne theory is schema theory. A schema is a mental concept. So a stereotype is a schema about people. When you see someone, you use the schema to judge them. For example, the stereotype that people who wear glasses are smart. So you see someone with glasses and you think they are smart. This is your schema working.\n\nAnother thing is bias. There is implicit bias, which is when you are biased but you don't know it. This makes you judge people unfairly. There is also confirmation bias. This is when you only see things that prove your stereotype is right. For example if you think a certain group is lazy, you will only notice when they are not working. You won't notice when they are working hard. This makes you think you are right about them being lazy.\n\nAn example of this is in the workplace. A boss might have a stereotype about young people being unreliable. So he might not give an important project to a young worker. He is judging them based on the stereotype, not on their actual skill. This is unfair to the young worker.\n\nIn conclusion, stereotypes affect our judgment in many ways. It's because of our brain's schemas and biases like confirmation bias. This can lead to unfairness, like in the workplace. It's important to know about this so we can try to stop it.\n\nReferences:\nPsychology Today website.",
+            "feedback": {
+                "c1": "Average. An introduction and thesis are present, but they are general and lack specificity. The thesis, 'This essay will talk about how stereotypes influence how people perceive and judge others...', merely restates the prompt rather than offering a focused argument.",
+                "c2": "Average. You have mentioned appropriate concepts like schema theory and confirmation bias. However, the explanations are limited and show only a partial understanding. For instance, implicit bias is mentioned but not clearly defined or connected to the other concepts.",
+                "c3": "Average. The examples provided (people with glasses, a workplace scenario) are relevant on the surface, but they lack depth. You state the example but do not clearly link it back to the psychological theory to explain *how* the perception is being shaped.",
+                "c4": "Average. The argument is understandable at a basic level, but it is shallow and the structure is loose. The essay presents concepts as a list rather than building a well-reasoned, integrated argument. The connection between the different biases, for instance, is not made clear.",
+                "c5": "Average. The conclusion is present and summarizes the topic, but it feels mechanical and repetitive. It restates the points from the introduction without adding any new synthesis or a strong final thought.",
+                "c6": "Average. The language is generally readable, but it is often informal ('Another thing is bias') and there are some issues with sentence structure and flow. The tone is not consistently academic.",
+                "c7": "Average. There is an attempt to cite a source, but it is not a credible academic source and it is not formatted correctly in APA style. There are no in-text citations to show where the information came from, which is a significant issue."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Vaguely mentions that stereotypes are bad.",
+                "Lists some psychological terms without correct definitions.",
+                "Example is weak or not connected to the main point.",
+                "Argument is very weak or hard to follow.",
+                "Structure is disorganized; intro or conclusion may be missing.",
+                "Writing has many errors that make it hard to read.",
+                "Citations are missing or completely wrong."
+            ],
+            "llm_questions": [
+                "what is stereotyping",
+                "what does bias mean",
+                "is a schema a bias",
+                "how do i write 400 words"
+            ],
+            "llm_answers": [
+                "its when u judge some one",
+                "its like when ur not fair",
+                "i think so? they are both in your head",
+                "just write a lot. you can repeat stuff to make it longer maybe."
+            ],
+            "final_submission": "Stereotypes are how people judge others. Its not good because you should not judge a book by its cover. Psychology says we do this because our brain is lazy. We see someone and we think we know them but we dont.\n\nOne idea is called confirmation bias. This is a bias that confirms things. So you see what you want to see. If you think someone is mean, you will only see them being mean. Another idea is a schema. a schema is a stereotype. like the idea that all athletes are not smart. This is a schema. It is a form of bias.\n\nFor an example, people see a person with tattoos and think they are a criminal. this is a stereotype. They might be a very nice person but people judge them. This affects how they are treated. they might not get a job because the boss is biased. This is because of the stereotype. The boss has a schema and he uses confirmation bias to prove he is right about the person with tattoos.\n\nSo we should not use stereotypes. they are wrong and they hurt people. We need to be more open minded and get to know people before we judge them. Its important for everyone to be fair.",
+            "feedback": {
+                "c1": "Needs Improvement. The introduction is very vague and does not establish a clear direction for the essay. A thesis statement is not identifiable, making it difficult to understand the essay's main argument or structure.",
+                "c2": "Needs Improvement. You mention psychological terms like 'confirmation bias' and 'schema,' but the definitions are incorrect or circular ('a schema is a stereotype'). This demonstrates a very limited understanding of the underlying theories and how they relate to one another.",
+                "c3": "Needs Improvement. The example of a person with tattoos is mentioned, but it is underdeveloped and the connection to the psychological concepts is weak. You state that the boss uses confirmation bias, but you do not explain what behavior the boss would be looking for to 'confirm' the bias.",
+                "c4": "Needs Improvement. The argument is weakly developed and repetitive. There are no clear logical links between ideas; concepts are presented in a disconnected way. The essay does not build a coherent case but instead repeats the same basic idea.",
+                "c5": "Needs Improvement. The final paragraph acts more like a personal opinion or moral statement than an academic conclusion. It does not effectively summarize or reinforce the (unclear) main points of the essay.",
+                "c6": "Needs Improvement. The writing lacks clarity and academic formality. There are multiple grammatical errors, informal language ('Its not good'), and issues with sentence cohesion that impede understanding.",
+                "c7": "Needs Improvement. There are no in-text citations or a reference list provided. Claims are made without any supporting evidence from academic sources, which is a critical failure in academic writing."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Does not address the prompt.",
+                "Omits or completely misunderstands psychological theories.",
+                "Provides no relevant examples.",
+                "Lacks any clear argument or structure.",
+                "Is extremely short, unclear, and full of errors.",
+                "No citations are provided."
+            ],
+            "llm_questions": [
+                "what is this question about",
+                "i dont know about psychology",
+                "can you just write it for me"
+            ],
+            "llm_answers": [
+                "It's asking about stereotypes and why people use them.",
+                "You might need to read the textbook to understand the concepts like schemas and bias.",
+                "I cannot write the essay for you, but I can help you understand the topic."
+            ],
+            "final_submission": "Judging people is wrong. Society is full of judgement. People judge based on clothes, on cars, on jobs. This is not fair. Everyone is a person. Why do people stereotype? I think its because of how they were raised. If their parents are mean then they will be mean. If you are nice to people they will be nice to you. Be the change you want to see in the world. Bias is just a word for being mean. We should all be better.",
+            "feedback": {
+                "c1": "Poor. The submission is missing an introduction and a thesis statement. It does not address the topic of psychological processes as required by the prompt.",
+                "c2": "Poor. The submission completely omits any discussion of relevant psychological theories such as schema theory, implicit bias, or confirmation bias. The statement 'Bias is just a word for being mean' is a significant misunderstanding of the concept.",
+                "c3": "Poor. No real-world or hypothetical examples are provided to illustrate psychological concepts. The submission consists only of broad, unsupported personal opinions.",
+                "c4": "Poor. There is no clear argument present. The content is unfocused, incoherent, and does not attempt to build a case or explain the phenomenon of stereotyping in a structured way.",
+                "c5": "Poor. There is no meaningful conclusion provided. The essay ends abruptly with a platitude.",
+                "c6": "Poor. The writing is extremely informal and riddled with grammatical and structural errors that hinder basic understanding. It does not meet the standards for university-level academic writing.",
+                "c7": "Poor. No citations or references are provided, and no attempt has been made to follow APA format or use any sources."
+            }
+        }
+    ]
+}

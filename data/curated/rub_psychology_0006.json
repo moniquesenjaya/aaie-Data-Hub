@@ -1,0 +1,203 @@
+{
+    "domain": "Psychology",
+    "prompt": "Analyze the role of observational learning in shaping human behavior. Refer to Bandura Social Learning Theory and include discussion of concepts like modelling, vicarious reinforcement, and self-efficacy. Provide real-life examples and discuss implications for education or media.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0006",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Social Learning Theory",
+                "description": "Demonstrates knowledge of Banduras theory and related concepts.",
+                "performance_descriptors": {
+                    "excellent": "Accurately explains key components: modelling, vicarious reinforcement, attention, retention, reproduction, motivation, and self-efficacy.",
+                    "good": "Explains theory with minor gaps in conceptual coverage.",
+                    "average": "Covers basics of theory but omits important elements.",
+                    "needs_improvement": "Limited or unclear understanding of Social Learning Theory.",
+                    "poor": "Fails to explain the theory meaningfully."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application to Real-Life Contexts",
+                "description": "Applies observational learning to behavior in education, media, or social settings.",
+                "performance_descriptors": {
+                    "excellent": "Uses strong, specific examples to illustrate how people learn through observation and reinforcement.",
+                    "good": "Examples are clear but may lack detail or variety.",
+                    "average": "Applies theory, but examples are vague or underexplained.",
+                    "needs_improvement": "Superficial or generic examples provided.",
+                    "poor": "No application to real-world behavior."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Critical Evaluation and Implications",
+                "description": "Evaluates strengths and weaknesses of observational learning and its broader implications.",
+                "performance_descriptors": {
+                    "excellent": "Thoughtfully evaluates theory and discusses implications for learning and media effects.",
+                    "good": "Addresses both strengths and limitations with reasonable insight.",
+                    "average": "Basic evaluation with limited depth.",
+                    "needs_improvement": "Limited critique or one-sided argument.",
+                    "poor": "No critical evaluation provided."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Style and Referencing",
+                "description": "Maintains academic tone and uses APA-style referencing.",
+                "performance_descriptors": {
+                    "excellent": "Well-structured, formal writing with accurate APA citations throughout.",
+                    "good": "Mostly formal and coherent with minor citation issues.",
+                    "average": "Readable but inconsistent tone or referencing.",
+                    "needs_improvement": "Writing lacks formality or has frequent citation errors.",
+                    "poor": "Unstructured or poorly cited writing."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define observational learning and explain its stages: attention, retention, reproduction, motivation.",
+                "Discuss key concepts such as modelling, vicarious reinforcement, and self-efficacy.",
+                "Explain Bandura's Bobo doll experiment and how it demonstrated learning through observation.",
+                "Apply Social Learning Theory to educational settings (e.g., classroom behavior, role models) and media influence (e.g., aggression, prosocial behavior).",
+                "Evaluate the strengths (e.g., real-world relevance) and limitations (e.g., underestimating biological factors) of the theory.",
+                "Use APA-style citations for Bandura and related research studies."
+            ],
+            "llm_questions": [
+                "What are the main components of Bandura's Social Learning Theory?",
+                "Can you explain the concept of vicarious reinforcement with an example?",
+                "What is the Bobo doll experiment and what did it demonstrate?",
+                "How does self-efficacy influence whether someone imitates a model?",
+                "What are some criticisms or limitations of Social Learning Theory?"
+            ],
+            "llm_answers": [
+                "Bandura's theory posits that learning occurs in a social context through observation and imitation. It involves mediational processes: Attention (noticing the behavior), Retention (remembering it), Reproduction (being able to perform it), and Motivation (the will to perform it). Key concepts include modelling, vicarious reinforcement, and self-efficacy.",
+                "Vicarious reinforcement is when an observer's behavior is influenced by the observed consequences of a model's behavior. For example, if a student sees a classmate receive praise (reinforcement) for asking a thoughtful question, they are more likely to ask a question themselves.",
+                "The Bobo doll experiment (Bandura, Ross, & Ross, 1961) involved children observing an adult model behaving aggressively towards an inflatable doll. Children who saw the aggressive model were significantly more likely to imitate this aggression, demonstrating that learning can occur without direct reinforcement.",
+                "Self-efficacy is an individual's belief in their ability to successfully perform a behavior. A person with high self-efficacy is more likely to attempt to imitate a model's behavior because they believe they can do it successfully. Low self-efficacy can prevent imitation, even if the other conditions for learning are met.",
+                "A key criticism is that Social Learning Theory may over-emphasize environmental factors and underestimate the role of biological predispositions, such as genetic or hormonal influences on aggression. Additionally, the theory struggles to explain spontaneous, non-imitated behaviors and individual differences in learning not accounted for by self-efficacy alone."
+            ],
+            "final_submission": "Observational learning, a cornerstone of Albert Bandura's Social Learning Theory, posits that human behavior is largely acquired through the observation of others within a social context. This mode of learning transcends simple imitation, involving a complex interplay of cognitive processes that bridge behaviorist and cognitive learning theories. Bandura proposed four mediational processes crucial for learning: attention, retention, reproduction, and motivation. An individual must first pay attention to a model's behavior, retain a memory of it, possess the physical and cognitive capacity to reproduce it, and finally, have the motivation to perform the behavior (Bandura, 1977). This motivation is significantly influenced by vicarious reinforcement, where an observer sees a model being rewarded or punished, thereby shaping their own likelihood of imitating the action. A student who observes a peer being praised for tidying their workspace is vicariously reinforced and more likely to do the same.\n\nThe power of observational learning was famously demonstrated in the Bobo doll experiments (Bandura, Ross, & Ross, 1961), where children who witnessed an adult acting aggressively towards a doll later mimicked that specific aggression. This highlighted that learning could occur without direct reinforcement. A critical component influencing whether observed behavior is performed is self-efficacy—an individual’s belief in their capability to execute the behavior successfully. For instance, a novice watching a professional skateboarder may learn the sequence of a trick (attention, retention) but will not attempt it (reproduction) if their self-efficacy is low. In education, teachers serve as powerful models for academic engagement and prosocial behavior. Similarly, media provides a vast array of models, which can have both positive and negative implications. Exposure to violent media has been linked to increased aggression, while shows promoting cooperation can foster prosocial behavior in children (Anderson & Bushman, 2002). \n\nDespite its explanatory power, Social Learning Theory is not without limitations. Critics argue it may understate the role of biological factors, such as genetic predispositions towards certain behaviors like aggression. It also struggles to account for the emergence of novel behaviors that are not directly observed. However, the theory's primary strength lies in its comprehensive explanation of how social and cognitive factors interact to shape behavior. Its implications for education and media are profound, underscoring the responsibility of educators and media creators to provide positive models. By understanding the mechanisms of observational learning, we can better structure learning environments and critically evaluate the media we consume, fostering desirable behaviors and mitigating negative influences.\n\nReferences\nAnderson, C. A., & Bushman, B. J. (2002). The effects of media violence on society. *Science*, 295(5564), 2377-2379.\nBandura, A. (1977). *Social learning theory*. Prentice Hall.\nBandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. *Journal of Abnormal and Social Psychology*, 63(3), 575–582.",
+            "feedback": {
+                "c1": "Excellent. Your explanation of Bandura's theory is comprehensive and accurate. You've clearly defined all the key components, including the four mediational processes and concepts like vicarious reinforcement and self-efficacy, demonstrating a deep understanding.",
+                "c2": "Excellent. The application of the theory is outstanding. You have used specific, well-explained examples for both educational settings (teacher as a model, peer praise) and media influence (aggression and prosocial behavior), directly linking them back to theoretical concepts.",
+                "c3": "Excellent. This is a very thoughtful critical evaluation. You have not only discussed the profound implications for education and media but also provided a balanced critique by acknowledging the theory's limitations, such as its potential to understate biological factors.",
+                "c4": "Excellent. The submission is exceptionally well-written. It follows a logical structure, maintains a formal academic tone throughout, and all sources are cited correctly in APA style, both in-text and in the reference list."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Explains observational learning and most of Bandura's key ideas, like modelling and reinforcement.",
+                "Mentions the Bobo doll study as key evidence.",
+                "Provides clear examples from education and media, though they could be more detailed.",
+                "Briefly discusses strengths and weaknesses of the theory.",
+                "Writing is clear and mostly formal, with some minor citation mistakes."
+            ],
+            "llm_questions": [
+                "What is Bandura's Social Learning Theory about?",
+                "What is vicarious reinforcement?",
+                "How does observational learning apply to school?",
+                "What's a weakness of this theory?",
+                "How do you write an in-text citation for Bandura?"
+            ],
+            "llm_answers": [
+                "It's about how people learn by watching others. Bandura said we don't just need rewards to learn; we can see someone else get rewarded (or punished) and learn from that. It involves attention, memory, and being able to do the action.",
+                "Vicarious reinforcement is when you see someone else get a reward for a behavior, and that makes you more likely to do it too. Like seeing an older sibling get praised for doing chores.",
+                "In school, students learn by watching the teacher. If a teacher is enthusiastic and organized, students might learn to be more engaged. They also learn from watching how other students behave and what the consequences are.",
+                "One weakness is that it might not pay enough attention to biology. Some people might be naturally more aggressive, and it's not all just from what they see on TV or from parents.",
+                "You would typically write (Bandura, 1977) after the sentence where you reference his ideas. If you use his name in the sentence, you just put the year, like 'According to Bandura (1977)...'"
+            ],
+            "final_submission": "Albert Bandura's Social Learning Theory suggests that people can learn new behaviors by observing others. This is called observational learning. Instead of just trial and error, we watch 'models' and see what happens to them. This process includes attention (watching the model), retention (remembering what they did), and reproduction (copying the action). Motivation is also key, because we need a reason to copy the behavior. A major part of this is vicarious reinforcement, where we see a model get rewarded and become more likely to copy them. Bandura's Bobo doll study is a famous example of this. In the study, children who saw an adult be aggressive with a doll were more aggressive themselves when they played with it (Bandura, 1961).\n\nThis theory has clear applications in real life. In education, teachers are important role models. They don't just teach subjects, but also how to behave in a classroom. Students learn by watching how the teacher handles problems and how they interact with others. The media is another powerful source of observational learning. For years, people have worried that violent TV shows and video games could teach children to be more aggressive by showing violent characters who are rewarded or go unpunished. On the other hand, shows like Sesame Street use observational learning to teach prosocial behaviors like sharing and cooperation.\n\nWhile Social Learning Theory is very useful, it does have some weaknesses. One criticism is that it doesn't fully account for biological factors. For example, a person's temperament might make them more or less likely to copy aggression regardless of what they see. Still, the theory is important for understanding how we are influenced by our social environment, especially in education and through the media.\n\nBandura, A. (1977). Social learning theory.\nBandura, A., Ross, D., & Ross, S. A. (1961). Transmission of aggression through imitation of aggressive models. Journal of Abnormal and Social Psychology.",
+            "feedback": {
+                "c1": "Good. You have provided a clear explanation of the core principles of Social Learning Theory, including the mediational processes and vicarious reinforcement. To improve, you could have integrated the concept of self-efficacy to provide a more complete picture of Bandura's model.",
+                "c2": "Good. Your examples from education and media are relevant and clearly illustrate the theory. For an excellent mark, you could elaborate on these examples with more specific details, explaining precisely how the mediational processes would operate in those scenarios.",
+                "c3": "Good. You've correctly identified a key limitation of the theory (biological factors) and noted its overall importance. The evaluation is reasonable but could be developed with more depth, perhaps by discussing the theory's strengths in more detail or exploring the implications for media literacy programs.",
+                "c4": "Good. The writing is mostly formal and coherent. There are a few minor issues with the reference list; for example, the journal article is missing volume and page numbers, and the book reference is incomplete. Pay close attention to APA formatting guidelines."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Describes observational learning as 'learning by watching'.",
+                "Mentions Bandura and the Bobo doll study.",
+                "Gives general examples, like 'kids copy TV'.",
+                "States one strength or weakness of the theory.",
+                "The writing is understandable but the tone is sometimes informal."
+            ],
+            "llm_questions": [
+                "What is observational learning?",
+                "Who is Bandura?",
+                "What is a real-life example of social learning?",
+                "Is the theory good or bad?"
+            ],
+            "llm_answers": [
+                "It's basically learning by watching other people. You see what they do, and then you do it too.",
+                "He was a psychologist who came up with Social Learning Theory. He did an experiment with a Bobo doll to prove his idea.",
+                "An example is a child learning to be polite by watching their parents say 'please' and 'thank you'. Or a teenager picking up slang from their friends.",
+                "It's good because it explains a lot, like how kids learn things. But it's maybe too simple because it ignores other things like a person's personality."
+            ],
+            "final_submission": "Social Learning Theory, which was developed by Bandura, is about how we learn from other people. The main idea is observational learning, which means we learn by watching. We see other people, called models, and we copy what they do. His most famous study was the Bobo Doll experiment. He had kids watch an adult hit a doll, and then the kids who saw that also hit the doll. This showed that they learned aggression just by watching.\n\nThis happens all the time in real life. For example, in schools, kids will copy the popular kids to try and fit in. Also in the media, people learn things from TV. If a character on a TV show is always acting mean to get what they want, kids watching might think that's how you're supposed to act. This is a big reason why people are concerned about violence in movies and video games. They think it will make people more violent in real life.\n\nThe theory is useful for explaining how society influences us. But a problem with the theory is that it doesn't explain everything. Sometimes people act in ways they've never seen before. So it can't be all just copying. Overall, Bandura showed that we learn a lot from what we see around us.",
+            "feedback": {
+                "c1": "Average. You have correctly identified the basics of Social Learning Theory, namely learning through observation and the role of models. However, your explanation omits important elements like the four mediational processes (attention, retention, etc.), vicarious reinforcement, and self-efficacy, which are crucial for a full understanding.",
+                "c2": "Average. You have applied the theory to the contexts of school and media. The examples provided (copying popular kids, violence on TV) are relevant but remain vague and underexplained. To improve, you should connect them more explicitly to the theory's concepts.",
+                "c3": "Average. You have provided a basic evaluation by noting that the theory 'can't be all just copying'. This is a valid point, but it lacks depth. A better response would involve a more structured discussion of specific strengths and weaknesses with more detailed reasoning.",
+                "c4": "Average. The submission is readable, but the tone is often informal ('kids', 'stuff like that'). There are no in-text citations or a reference list, which is a significant omission in academic writing. You must always cite the sources you use to support your points."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Mentions that people learn by copying others.",
+                "Refers to TV violence as an example.",
+                "Does not explain Bandura's theory in any detail.",
+                "Makes a one-sided argument without evidence.",
+                "Writing is informal and lacks structure."
+            ],
+            "llm_questions": [
+                "What am I supposed to write about?",
+                "Is social learning just copying?",
+                "What's an example of this?",
+                "Do I need to use references?"
+            ],
+            "llm_answers": [
+                "You need to write about how people learn by watching others, using Bandura's theory.",
+                "Yes, it's mostly about how kids copy what they see adults do.",
+                "Like when a kid sees a superhero on TV and then starts pretending to fight.",
+                "Yes, you should mention who came up with the ideas you talk about."
+            ],
+            "final_submission": "People learn by watching what other people do. This is observational learning. A kid sees his dad yelling, so the kid learns to yell. This is very true for media. All the violence on TV is making kids more violent. They see fighting and shooting on the screen and they go out and do the same thing. Bandura did a study with a doll that proved this. He showed that watching violence makes you violent. This is why we need to have less violence in movies and on the news, because it is bad for society and teaches bad behavior. It's just common sense that if you see something a lot you will start to act that way.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission shows a very limited understanding of Social Learning Theory. While you mention observational learning and Bandura, there is no explanation of the theory's concepts, such as the mediational processes or vicarious reinforcement. The explanation is an oversimplification of a complex theory.",
+                "c2": "Needs Improvement. You provide a generic example about TV violence, but it is superficial. The connection between the example and any specific principles of the theory is not made clear. How does this example demonstrate attention, retention, or motivation?",
+                "c3": "Needs Improvement. There is no critical evaluation here. You present a one-sided argument that TV violence is bad, but you do not evaluate the strengths or weaknesses of Social Learning Theory itself. The argument is based on 'common sense' rather than academic analysis.",
+                "c4": "Needs Improvement. The writing lacks formality and structure, reading more like a brief opinion piece than an academic analysis. There are no citations or references provided, which is a critical requirement for university-level work. You must cite sources to support your claims."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Vaguely mentions that people learn from what they see."
+            ],
+            "llm_questions": [
+                "What is behavior?",
+                "Who is Bandura?",
+                "What is this question about?"
+            ],
+            "llm_answers": [
+                "How people act.",
+                "I don't know.",
+                "It's about learning from watching people."
+            ],
+            "final_submission": "Behavior is shaped by many things. Sometimes you learn to do things because you see other people do them. For example on tv. This is learning. It is bad for people to see bad things because they will do bad things too. This is psychology.",
+            "feedback": {
+                "c1": "Poor. This submission fails to explain Social Learning Theory in any meaningful way. It does not mention Bandura or any of the core concepts required by the prompt, such as modelling, vicarious reinforcement, or self-efficacy.",
+                "c2": "Poor. There is no clear application of the theory to any real-world behavior. The mention of 'tv' is far too vague and is not connected to any theoretical framework.",
+                "c3": "Poor. The submission provides no critical evaluation of any theory. The statement that 'it is bad for people to see bad things' is an opinion and does not constitute an academic critique.",
+                "c4": "Poor. The writing is unstructured, extremely brief, and does not meet the standards of academic work. There are no citations. This response does not address the assignment prompt."
+            }
+        }
+    ]
+}

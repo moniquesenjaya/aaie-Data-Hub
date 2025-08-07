@@ -1,0 +1,203 @@
+{
+    "domain": "Psychology",
+    "prompt": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) is widely used in psychological diagnosis and clinical practice.\n\nIn this assignment, you must:\n- Explain the purpose and structure of the DSM-5.\n- Select one disorder from the DSM-5 and describe its diagnostic criteria, symptomology, and classification.\n- Evaluate the strengths and limitations of using the DSM-5 for diagnosing mental disorders, including cultural and ethical considerations.\n\nSupport your analysis with academic sources and real or hypothetical examples.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0002",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of DSM-5 Framework",
+                "description": "Explains the structure, purpose, and practical use of the DSM-5 in clinical psychology.",
+                "performance_descriptors": {
+                    "excellent": "Provides a detailed and accurate overview of the DSM-5, including its organization, diagnostic criteria system, and utility.",
+                    "good": "Explains the DSM-5 clearly with minor omissions or simplifications.",
+                    "average": "Describes the DSM-5 but lacks clarity or depth in some areas.",
+                    "needs_improvement": "Basic or partially incorrect understanding of the DSM-5.",
+                    "poor": "Minimal or no understanding of the DSM-5 is demonstrated."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Analysis of Selected Disorder",
+                "description": "Accurately outlines and analyzes one mental disorder from DSM-5.",
+                "performance_descriptors": {
+                    "excellent": "Provides a comprehensive, textbook-accurate description of diagnostic criteria, symptoms, and classification.",
+                    "good": "Mostly accurate description with one or two minor errors or missing details.",
+                    "average": "Some important diagnostic information is included but lacks completeness or accuracy.",
+                    "needs_improvement": "Inaccurate or vague disorder description with little diagnostic detail.",
+                    "poor": "Fails to describe the disorder meaningfully."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Critical Evaluation of the DSM-5 Approach",
+                "description": "Assesses the strengths and weaknesses of DSM-5, including ethical and cultural factors.",
+                "performance_descriptors": {
+                    "excellent": "Engages in nuanced critique of DSM-5, referencing cultural bias, ethical concerns, and alternative models.",
+                    "good": "Addresses both pros and cons, though with less depth or fewer references.",
+                    "average": "Attempts evaluation but lacks strong evidence or scope.",
+                    "needs_improvement": "Limited or one-sided evaluation with little insight.",
+                    "poor": "No meaningful evaluation presented."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Writing and APA Referencing",
+                "description": "Maintains academic tone, proper structure, and citation style.",
+                "performance_descriptors": {
+                    "excellent": "Clear, formal tone with logical structure and flawless APA referencing.",
+                    "good": "Mostly academic tone; minor errors in writing or citation.",
+                    "average": "Readable but inconsistently formal or slightly unstructured.",
+                    "needs_improvement": "Informal tone or confusing structure; referencing needs work.",
+                    "poor": "Disorganized or poorly written; no citation present."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Explain the structure of the DSM-5, including the sections, codes, and symptom criteria.",
+                "Clarify the purpose of DSM-5 in clinical, research, and insurance settings.",
+                "Select a DSM-5 disorder (e.g., Major Depressive Disorder) and describe its symptoms, classification, and diagnostic thresholds.",
+                "Use APA-style citations to reference academic literature and the DSM-5 manual itself.",
+                "Critically evaluate limitations of DSM-5 such as cultural insensitivity, pathologizing normal behavior, or comorbidity issues.",
+                "Discuss ethical issues (e.g., misdiagnosis, stigma) and cultural concerns (e.g., Western-centric models).",
+                "Provide hypothetical or real-life case examples to illustrate diagnosis and limitations."
+            ],
+            "llm_questions": [
+                "What is the structure and organization of the DSM-5?",
+                "Can you summarize the diagnostic criteria for Major Depressive Disorder according to DSM-5?",
+                "What are examples of cultural limitations or criticisms of DSM-5 diagnoses?",
+                "What ethical considerations should be taken into account when diagnosing with DSM-5?"
+            ],
+            "llm_answers": [
+                "The DSM-5 is organized into three sections. Section I provides an introduction and instructions for use. Section II contains the diagnostic criteria and codes for all the mental disorders, which are now organized based on a developmental lifespan approach. Section III includes emerging measures and models, such as the Cultural Formulation Interview and conditions for further study.",
+                "For a Major Depressive Disorder (MDD) diagnosis, an individual must experience five or more of a specific list of nine symptoms during the same 2-week period, with at least one being either (1) depressed mood or (2) loss of interest or pleasure (anhedonia). These symptoms must cause clinically significant distress or impairment and not be attributable to a substance or another medical condition.",
+                "A key cultural limitation is that the DSM-5's symptom descriptions are rooted in Western conceptions of mental illness. For example, in some East Asian cultures, psychological distress may be expressed somatically (e.g., as headaches or fatigue) rather than emotionally, a phenomenon known as somatization. The DSM-5's criteria for MDD may not fully capture these cultural variations in symptom presentation.",
+                "Ethical considerations are paramount. Clinicians must guard against confirmation bias and the risk of premature diagnosis. There is a significant ethical responsibility to avoid misdiagnosis, which can lead to inappropriate treatment and social stigma. Furthermore, the act of labeling can pathologize normal human experiences, like grief, and has implications for an individual's self-concept and social standing."
+            ],
+            "final_submission": "The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), serves as the authoritative guide for the diagnosis of mental disorders in the United States. Its primary purpose is to provide a common language and standard criteria for the classification of mental disorders, which is essential for clinicians, researchers, and public health officials (American Psychiatric Association, 2013). The manual is organized into three sections, with Section II housing the diagnostic criteria grouped by disorder categories such as 'Depressive Disorders' and 'Anxiety Disorders'. This structure facilitates reliable diagnoses across different practitioners and settings, which is crucial for treatment planning and insurance reimbursement.\n\nAs an example, Major Depressive Disorder (MDD) is classified under 'Depressive Disorders'. To be diagnosed with MDD, the DSM-5 requires an individual to exhibit five or more symptoms from a list of nine, including hallmark symptoms like depressed mood or anhedonia, for a continuous period of at least two weeks (American Psychiatric Association, 2013). For instance, a hypothetical client, 'Jane', presenting with persistent sadness, insomnia, fatigue, feelings of worthlessness, and diminished concentration for over a month, alongside significant impairment in her ability to work, would meet the criteria for MDD.\n\nDespite its utility, the DSM-5 is not without significant limitations. A primary strength is its standardization, which enhances diagnostic reliability and communication. However, a major weakness lies in its potential for cultural insensitivity. The diagnostic criteria are heavily influenced by Western psychiatric paradigms, which may not adequately capture culturally specific expressions of distress (Kirmayer & Ryder, 2016). For example, a client from a collectivist culture might present with somatic symptoms rather than expressing emotional turmoil, potentially leading to a misdiagnosis if a clinician adheres strictly to the manual without cultural context. Ethically, this raises concerns about iatrogenic harm from misdiagnosis and the imposition of a Western illness model on diverse populations. Furthermore, the categorical approach of the DSM-5 often fails to address the high rates of comorbidity and the dimensional nature of psychopathology, treating disorders as discrete entities when they often overlap. This can lead to a reductionist view of complex human suffering and reinforces the stigma associated with diagnostic labels. Therefore, while the DSM-5 is an indispensable tool, its application requires critical awareness of its inherent limitations and a commitment to culturally and ethically informed practice.\n\nReferences\n\nAmerican Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.). American Psychiatric Publishing.\n\nKirmayer, L. J., & Ryder, A. G. (2016). Cultural competence and evidence-based practice in mental health: Epistemic communities and the politics of pluralism. *Social Science & Medicine, 165*, 12-20.",
+            "feedback": {
+                "c1": "Excellent. You have provided a comprehensive and accurate overview of the DSM-5's purpose and three-section structure. Your explanation of its utility for clinicians and researchers demonstrates a deep understanding of its role in the field.",
+                "c2": "Excellent. The description of Major Depressive Disorder is textbook-accurate, correctly identifying the core diagnostic criteria, including the duration and number of symptoms required. The use of a brief, effective hypothetical example clarifies the application of these criteria perfectly.",
+                "c3": "Excellent. This is a nuanced and well-supported critique. You've skillfully balanced the strengths (standardization) with significant limitations, focusing on sophisticated issues like cultural bias with specific examples (somatization) and ethical concerns like stigma and reductionism. The mention of comorbidity and the categorical approach shows advanced critical thinking.",
+                "c4": "Excellent. The submission is exceptionally well-written, with a clear, logical structure and formal academic tone. APA referencing for both the manual and a secondary journal article is flawless, which is exactly the standard expected for high-level academic work."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Clearly explains the main purpose of the DSM-5.",
+                "Describes the general structure of the DSM-5, possibly omitting some details.",
+                "Selects a disorder and provides a mostly accurate description of its symptoms.",
+                "Touches upon both strengths and weaknesses of the DSM-5.",
+                "Mentions cultural or ethical issues but with less detail.",
+                "Writing is clear and academic, with minor citation errors."
+            ],
+            "llm_questions": [
+                "What is the main purpose of the DSM-5?",
+                "What are the key symptoms for Major Depressive Disorder?",
+                "What is one strength and one weakness of the DSM?",
+                "How should I cite the DSM-5 book?"
+            ],
+            "llm_answers": [
+                "The main purpose of the DSM-5 is to help mental health professionals diagnose mental disorders. It provides a list of all the disorders and gives them each specific criteria so that different doctors can agree on a diagnosis. It's also used for billing and insurance purposes.",
+                "The key symptoms for Major Depressive Disorder are feeling depressed most of the day, nearly every day, and losing interest or pleasure in activities you used to enjoy. You also need several other symptoms like changes in sleep or appetite, fatigue, and feeling worthless.",
+                "A major strength is that it's standardized. This means a diagnosis of MDD in one clinic should be the same as in another, which helps with consistent treatment. A weakness is that it can lead to labeling and stigma, where people are defined by their diagnosis.",
+                "You should cite it like a book. The author is the American Psychiatric Association, the year is 2013, the title is 'Diagnostic and statistical manual of mental disorders' (in italics), and the publisher is American Psychiatric Publishing. You also need to note it's the 5th edition."
+            ],
+            "final_submission": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) is a tool used by psychologists and other professionals to diagnose mental health conditions. Its purpose is to create a shared set of criteria for disorders so that diagnosis is more reliable and consistent. This helps in planning treatment and is often required by insurance companies for coverage (American Psychiatric Association, 2013).\n\nAn example of a disorder from the DSM-5 is Major Depressive Disorder (MDD). It is found in the 'Depressive Disorders' section. The diagnostic criteria state that a person must have at least five symptoms for two weeks, one of which must be a depressed mood or a loss of interest/pleasure. Other symptoms include significant weight loss or gain, insomnia or hypersomnia, fatigue, feelings of worthlessness, and trouble concentrating. For example, a student who stops going to class, can't sleep, feels sad all the time, and says they feel like a failure for over a month might be diagnosed with MDD.\n\nThe DSM-5 has both strengths and limitations. On the one hand, its standardization is a huge benefit for clinical work and research. It creates a common language for professionals. On the other hand, it has been criticized for being too focused on Western culture. Some symptoms of depression might be different in other cultures, which the DSM-5 might not fully capture. This can lead to misdiagnosis. Another ethical issue is that giving someone a label can cause stigma and affect how they see themselves and how others see them. So while the DSM-5 is useful, clinicians need to be careful and consider more than just the checklist of symptoms when diagnosing a person.\n\nReferences\n\nAmerican Psychiatric Association. (2013). *Diagnostic and statistical manual of mental disorders* (5th ed.).",
+            "feedback": {
+                "c1": "Good. You have provided a clear explanation of the DSM-5's purpose, correctly identifying its role in standardizing diagnosis for clinical and insurance purposes. The description of its structure is a bit simplified, missing the detail about the three-section organization, but the core function is well-understood.",
+                "c2": "Good. The description of MDD is mostly accurate, and you've correctly listed several key symptoms and the duration criteria. The use of a relevant example is helpful. The description is solid, though a more 'excellent' response would ensure all details, like the total number of possible symptoms (nine), are mentioned for full context.",
+                "c3": "Good. You have successfully identified a key strength (standardization) and important limitations (cultural bias, stigma). The evaluation is balanced, but it could be deepened with more specific examples or by referencing academic sources that discuss these critiques in more detail.",
+                "c4": "Good. The writing is clear and maintains a mostly academic tone. The structure is logical. The APA reference for the DSM-5 is almost correct but is missing the publisher's name, which is a minor error."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Describes the basic purpose of the DSM-5.",
+                "General or slightly unclear description of a disorder's symptoms.",
+                "Lists some strengths and weaknesses but with little explanation.",
+                "Writing is generally understandable but may be informal or unstructured.",
+                "May attempt to cite sources but with significant errors."
+            ],
+            "llm_questions": [
+                "What is the DSM for?",
+                "What is depression?",
+                "Is the DSM good or bad?",
+                "Do I need to include references?"
+            ],
+            "llm_answers": [
+                "The DSM is a book that lists all the mental illnesses and their symptoms. Doctors use it to figure out what's wrong with a patient.",
+                "Depression is when you feel very sad for a long time. You might also be tired a lot and not want to do things you normally enjoy.",
+                "It's both. It's good because it gives doctors a guide, so it's not just their opinion. It's bad because it can put people in a box with a label, which can be negative.",
+                "Yes, you should mention where you got your information from, especially if you use a specific book like the DSM or an article."
+            ],
+            "final_submission": "The DSM-5 is a manual for mental health. Its purpose is to list out all the different mental disorders so that clinicians have a guide for when they are diagnosing a patient. It helps make sure everyone is using the same terms.\n\nOne disorder in the book is depression, also called Major Depressive Disorder. This is when someone has a depressed mood and loses interest in things. They also have other problems like a change in appetite or sleep and feeling tired. For example, if someone feels sad all the time and stops eating, they might have it.\n\nThere are good and bad things about the DSM-5. A good thing is that it is a standard. So it makes diagnosis more scientific. A bad thing is that it can give people labels, which creates stigma. Also, it might not be fair to people from other cultures who show their feelings differently. So it's a useful tool but it has problems. It's important for doctors to not just rely on the book but also talk to the person. It is published by the American Psychiatric Association.",
+            "feedback": {
+                "c1": "Average. You have a basic grasp of the DSM-5's purpose as a diagnostic guide. However, the explanation lacks depth, failing to mention its organizational structure or its specific utility in research and insurance contexts, which are key aspects of its function.",
+                "c2": "Average. You identified Major Depressive Disorder and its core symptoms of sad mood and loss of interest. However, the description is incomplete; it lacks crucial diagnostic details such as the number of symptoms required or the specific time duration (2 weeks), which are necessary for an accurate diagnosis according to the manual.",
+                "c3": "Average. You have attempted an evaluation by listing a pro (standardization) and a con (stigma/culture). However, the points lack development and are not supported by evidence or detailed examples. The critique remains at a surface level.",
+                "c4": "Average. The writing is readable, but the tone is somewhat informal ('a book', 'what's wrong with a patient'). The submission lacks a clear structure and a concluding statement. You have mentioned the publisher but have not formatted it as a proper APA reference list."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Partially incorrect or very basic explanation of the DSM-s purpose.",
+                "Vague or inaccurate description of a disorder.",
+                "Presents a one-sided or unsubstantiated opinion on the DSM.",
+                "Writing is informal and poorly organized.",
+                "No citations are present."
+            ],
+            "llm_questions": [
+                "What is the DSM book?",
+                "What does it mean to be depressed?",
+                "Why do people not like the DSM?"
+            ],
+            "llm_answers": [
+                "It's a big medical book that has a list of mental problems. I think it's for telling people whats wrong with them.",
+                "Being depressed just means you're really sad a lot. Like when something bad happens and you can't stop thinking about it.",
+                "People don't like it because it labels people. Getting a label is bad and it can make people think you're crazy."
+            ],
+            "final_submission": "The DSM-5 is a book of mental problems that doctors use. Its purpose is to tell you what disorder you have based on how you feel. It is used in all hospitals.\n\nI will talk about depression. Depression is a disorder where you are very sad all the time. You dont feel like yourself and you might cry. It is a very common problem lots of people have. Anyone can get it if they go through a hard time. The symptoms are just feeling down.\n\nI think the DSM is not a good thing. It is bad to label people with disorders. This is because of stigma, if you have a label people will treat you different and it's not fair. It just puts people in boxes and doesn't help them actually get better. It just gives them a problem for life. So we should not use it to diagnose people.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission demonstrates a very basic and partially incorrect understanding of the DSM-5. While you identify it as a diagnostic tool, you oversimplify its purpose and incorrectly state its universal use ('in all hospitals'). There is no mention of its structure or criteria-based system.",
+                "c2": "Needs Improvement. The description of depression is vague and reflects a lay understanding rather than the clinical criteria from the DSM-5. It lacks any specific diagnostic details like symptom duration, number of symptoms, or the concept of functional impairment, which are central to a DSM-based diagnosis.",
+                "c3": "Needs Improvement. The evaluation is one-sided, focusing only on the negative aspect of labeling and stigma. The argument is based on personal opinion ('I think the DSM is not a good thing') and lacks any counterarguments, nuance, or evidence to support its claims. The strengths of the manual are not addressed.",
+                "c4": "Needs Improvement. The writing is highly informal and the structure is confusing, moving between points without clear transitions. There are no academic sources or references provided to support any of the statements made."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Fails to explain the purpose or structure of the DSM-5.",
+                "Does not describe a specific disorder or its criteria.",
+                "Offers no evaluation or a completely irrelevant one.",
+                "Is poorly written, disorganized, and off-topic.",
+                "No references."
+            ],
+            "llm_questions": [
+                "what am i supposed to write about",
+                "what is psychology",
+                "is being sad a mental illness"
+            ],
+            "llm_answers": [
+                "You need to write about a psychology book called the DSM, a disorder from it, and if the book is good or bad.",
+                "Psychology is the study of the mind and behavior.",
+                "Sometimes, but usually it's just a normal feeling."
+            ],
+            "final_submission": "Psychology is very important. Many people have mental health problems today. Being sad is a big problem. I know someone who was sad and it was hard for them. They didn't want to go out. Doctors need to help people who are sad. They should talk to them and be nice. There are many disorders and it is important to understand them so we can help people feel better and not be sick.",
+            "feedback": {
+                "c1": "Poor. The submission demonstrates no understanding of the DSM-5. It is not mentioned by name, and its purpose, structure, and use in clinical psychology are not addressed in any way. The response fails to meet the most basic requirement of this criterion.",
+                "c2": "Poor. The submission does not select or describe a specific disorder from the DSM-5. It vaguely mentions 'being sad' but provides no diagnostic criteria, symptomology, or classification. This fails to address the prompt's requirement.",
+                "c3": "Poor. There is no meaningful evaluation of the DSM-5 presented. The submission makes general statements about helping people but does not engage in any critical assessment of the strengths, weaknesses, or ethical considerations of a diagnostic system.",
+                "c4": "Poor. The submission is disorganized and does not follow the prompt's instructions. The writing is very basic and does not resemble a university-level response. No citations are present, and the content is largely irrelevant to the specific task."
+            }
+        }
+    ]
+}

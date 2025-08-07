@@ -1,0 +1,205 @@
+{
+    "domain": "Psychology",
+    "prompt": "Explore the psychological and physiological effects of chronic stress. Discuss the role of the hypothalamic-pituitary-adrenal (HPA) axis, the impact on immune functioning, and how prolonged stress contributes to mental and physical health conditions. Provide examples and cite supporting research.",
+    "rubric": {
+        "rubric_id": "rub_psychology_0005",
+        "criteria": [
+            {
+                "criterion_id": "c1",
+                "name": "Understanding of Stress Mechanisms",
+                "description": "Explains biological and psychological mechanisms involved in the stress response.",
+                "performance_descriptors": {
+                    "excellent": "Clearly explains the HPA axis, cortisol release, and links to both psychological and physiological outcomes.",
+                    "good": "Good understanding with minor gaps in detail or terminology.",
+                    "average": "Covers key concepts but lacks specificity or precision.",
+                    "needs_improvement": "Partial or unclear understanding of stress mechanisms.",
+                    "poor": "Fails to describe how stress works biologically or psychologically."
+                }
+            },
+            {
+                "criterion_id": "c2",
+                "name": "Application to Health Outcomes",
+                "description": "Describes effects of chronic stress on mental and physical health.",
+                "performance_descriptors": {
+                    "excellent": "Connects stress to disorders (e.g., depression, cardiovascular disease) using relevant examples and mechanisms.",
+                    "good": "Makes appropriate health links with some detail.",
+                    "average": "Basic connections between stress and health; may be general.",
+                    "needs_improvement": "Vague or unsupported claims about stress effects.",
+                    "poor": "No meaningful connection to health outcomes."
+                }
+            },
+            {
+                "criterion_id": "c3",
+                "name": "Use of Psychological and Biological Evidence",
+                "description": "Refers to studies and theories supporting claims.",
+                "performance_descriptors": {
+                    "excellent": "Supports points with well-integrated studies (e.g., Selye, Sapolsky, Cohen) and theory (e.g., General Adaptation Syndrome).",
+                    "good": "Refers to relevant evidence but may not fully explain significance.",
+                    "average": "Evidence present but underdeveloped or disconnected.",
+                    "needs_improvement": "Minimal or unclear reference to research.",
+                    "poor": "No use of evidence."
+                }
+            },
+            {
+                "criterion_id": "c4",
+                "name": "Academic Style and Clarity",
+                "description": "Presents content in a formal academic style with clear structure and referencing.",
+                "performance_descriptors": {
+                    "excellent": "Fluent, formal tone with logical flow and accurate APA citations.",
+                    "good": "Mostly clear and formal, with minor writing issues.",
+                    "average": "Some inconsistencies in tone or structure.",
+                    "needs_improvement": "Unclear writing or inconsistent citation.",
+                    "poor": "Poor organization or lack of academic tone."
+                }
+            }
+        ]
+    },
+    "submissions": [
+        {
+            "quality": "Excellent",
+            "key_points": [
+                "Define chronic stress and distinguish it from acute stress.",
+                "Explain the function of the HPA axis and how it regulates the stress response.",
+                "Describe how prolonged cortisol exposure weakens immune system functioning.",
+                "Link chronic stress to conditions like depression, cardiovascular disease, and gastrointestinal problems.",
+                "Reference theories and studies like General Adaptation Syndrome (Selye), Sapolsky's work on stress, and Cohen's cold virus experiment.",
+                "Maintain formal academic tone and cite sources using APA style."
+            ],
+            "llm_questions": [
+                "What is the difference between acute and chronic stress?",
+                "How does the HPA axis function in response to chronic stress?",
+                "What are the long-term effects of cortisol on the immune system?",
+                "Can you explain how stress contributes to diseases like depression or heart disease?",
+                "What psychological theories explain the body's stress response?"
+            ],
+            "llm_answers": [
+                "Acute stress is a short-term response to an immediate threat, activating the fight-or-flight system. Chronic stress is a prolonged, sustained response to a persistent stressor, leading to long-term physiological changes.",
+                "In chronic stress, the HPA axis is persistently activated, leading to high cortisol levels. Over time, the negative feedback loop that normally shuts off cortisol production becomes impaired, resulting in sustained hormonal dysregulation.",
+                "Prolonged cortisol exposure is immunosuppressive. It reduces the number of lymphocytes, inhibits inflammatory responses, and can ultimately leave the body more vulnerable to infections and illnesses.",
+                "Chronic HPA axis activation is linked to depression through its effects on neurotransmitter systems and neurogenesis. In heart disease, high cortisol can contribute to hypertension, plaque buildup in arteries, and increased inflammation.",
+                "Hans Selye's General Adaptation Syndrome (GAS) is a key theory, describing three stages: alarm, resistance, and exhaustion. The exhaustion stage explains how chronic stress depletes the body's resources, leading to illness."
+            ],
+            "final_submission": "Chronic stress represents a prolonged and persistent state of physiological arousal, distinct from the acute 'fight-or-flight' response. Its pervasive effects on human health are mediated primarily through the hypothalamic-pituitary-adrenal (HPA) axis. When a stressor is perceived, the hypothalamus releases corticotropin-releasing hormone (CRH), which signals the pituitary gland to release adrenocorticotropic hormone (ACTH). ACTH then stimulates the adrenal glands to secrete cortisol. In a healthy response, rising cortisol levels create a negative feedback loop that inhibits further CRH and ACTH production. However, under chronic stress, this feedback system becomes dysregulated, leading to sustained high levels of cortisol (Sapolsky, 2004). This dysregulation has profound consequences for the body, particularly the immune system. While short-term cortisol release has anti-inflammatory effects, prolonged exposure is immunosuppressive, reducing the body's ability to fight off pathogens, as demonstrated in studies by Cohen et al. (1991) where individuals with higher stress levels were more susceptible to the common cold virus. This physiological breakdown contributes directly to adverse health outcomes. The link between chronic stress and major depressive disorder is well-established, with elevated cortisol implicated in neuronal atrophy in the hippocampus. Furthermore, sustained HPA axis activation contributes to cardiovascular disease through mechanisms like hypertension and atherosclerosis. As Hans Selye's (1956) General Adaptation Syndrome (GAS) model posits, the body eventually enters an 'exhaustion' stage, where its resources are depleted, making it vulnerable to disease. Therefore, chronic stress is not merely a psychological state but a critical physiological process that significantly undermines physical and mental well-being.",
+            "feedback": {
+                "c1": "Excellent. You have provided a clear, accurate, and detailed explanation of the HPA axis, including the specific hormones involved (CRH, ACTH, cortisol) and the critical concept of negative feedback loop dysregulation in chronic stress.",
+                "c2": "Excellent. The submission expertly connects chronic stress to specific health outcomes like depression and cardiovascular disease. You effectively explain the underlying mechanisms, such as cortisol's impact on neurogenesis and hypertension, providing a strong link between the stress response and pathology.",
+                "c3": "Excellent. You have seamlessly integrated foundational research and theory into your argument. Your references to Sapolsky's work on HPA dysregulation, Cohen's classic cold virus studies, and Selye's General Adaptation Syndrome are all highly relevant and used effectively to support your claims.",
+                "c4": "Excellent. The response is written in a formal, academic tone with a clear, logical structure. The prose is fluent and concise, and you have correctly used in-text citations (e.g., Sapolsky, 2004), demonstrating a strong command of academic writing conventions."
+            }
+        },
+        {
+            "quality": "Good",
+            "key_points": [
+                "Identifies chronic stress as a long-term problem.",
+                "Names the HPA axis and cortisol as part of the stress response.",
+                "States that chronic stress weakens the immune system.",
+                "Connects stress to health issues like depression and heart problems.",
+                "Refers to a relevant theory like General Adaptation Syndrome.",
+                "Writing is clear and structured, with some minor errors."
+            ],
+            "llm_questions": [
+                "What is the HPA axis?",
+                "How does stress affect the immune system?",
+                "Can stress cause mental illness?",
+                "What is the General Adaptation Syndrome?",
+                "How should I cite my sources?"
+            ],
+            "llm_answers": [
+                "The HPA axis is the body's central stress response system. It involves the hypothalamus, pituitary gland, and adrenal glands working together to release cortisol.",
+                "Chronic stress can weaken your immune system by releasing too much cortisol over a long time, which makes it harder for your body to fight off infections.",
+                "Yes, there is a strong link between chronic stress and mental illnesses like depression and anxiety. The constant stress can change brain chemistry and structure.",
+                "The General Adaptation Syndrome is a model by Hans Selye that shows how the body responds to stress in three phases: alarm, resistance, and exhaustion. The exhaustion phase is when illness can occur.",
+                "For psychology, you typically use APA style. This means you put the author's last name and the year of publication in parentheses after you make a claim, like (Selye, 1956)."
+            ],
+            "final_submission": "Chronic stress is a long-term health issue that has significant psychological and physiological effects. The main system involved is the hypothalamic-pituitary-adrenal (HPA) axis. When you are stressed, this system causes the release of a hormone called cortisol from the adrenal glands. While this is helpful in the short term, having high cortisol for a long time is damaging. One major impact is on the immune system. Too much cortisol weakens the immune response, making a person more likely to get sick. For example, people under a lot of stress might get more colds. This also leads to serious health conditions. Chronic stress is a known risk factor for mental health problems like depression and anxiety. Physically, it can contribute to cardiovascular disease because of its effects on blood pressure and the heart. The theory of General Adaptation Syndrome, developed by Hans Selye (1956), explains this well. It says our body goes through stages of alarm and resistance, but if stress continues, we reach exhaustion, where disease can develop. So, it's clear that prolonged stress is a major factor in both physical and mental illness.",
+            "feedback": {
+                "c1": "Good. You correctly identify the HPA axis and cortisol as central to the stress response. To improve, you could provide more detail on the specific sequence of hormonal release (e.g., CRH, ACTH) and explain *how* the system becomes dysregulated in chronic stress.",
+                "c2": "Good. You make appropriate connections between chronic stress and health outcomes like immune suppression, depression, and cardiovascular disease. The examples are relevant. The explanation could be strengthened by detailing the mechanisms further (e.g., how stress raises blood pressure).",
+                "c3": "Good. Your use of Selye's General Adaptation Syndrome is appropriate and supports your argument. The submission would be stronger if you included references to empirical studies, such as research linking stress levels to infection rates, to provide more specific evidence.",
+                "c4": "Good. The writing is clear and the structure is logical. The tone is mostly academic. Be mindful of using slightly informal phrasing like 'When you are stressed'. The in-text citation is a good start, but ensure a full reference list is provided in a final paper."
+            }
+        },
+        {
+            "quality": "Average",
+            "key_points": [
+                "Describes stress as being bad for a long time.",
+                "Mentions stress hormones like cortisol.",
+                "States that stress makes you sick.",
+                "Lists some health problems related to stress.",
+                "Mentions a theory but doesn't explain it well.",
+                "Writing is understandable but lacks formal tone."
+            ],
+            "llm_questions": [
+                "What hormone is involved in stress?",
+                "What does stress do to your body?",
+                "What is 'fight or flight'?",
+                "Who is Selye?"
+            ],
+            "llm_answers": [
+                "Cortisol is the main stress hormone. It's released when you're stressed.",
+                "Stress makes your heart beat faster and can make you tired. Over time, it can make you sick and feel depressed.",
+                "'Fight or flight' is the body's reaction to something scary. It gets you ready to either run away or fight.",
+                "Selye was a scientist who came up with a theory about stress and how it affects the body in stages."
+            ],
+            "final_submission": "Chronic stress is when you feel stressed for a long time, and it has a lot of bad effects on your body and mind. Our bodies release hormones when we are under stress, mainly cortisol. This is part of the 'fight or flight' response. But when this response is on all the time, it causes problems. The constant stress and cortisol can hurt your immune system. This means you are more likely to get ill. It can also cause mental problems like depression. Physically, people with a lot of stress can get heart problems or stomach issues. A scientist named Selye talked about this. He had a theory about stress. He said if you are stressed for too long you get to a stage of exhaustion and that's when you get sick. So stress is a big problem for a person's overall health.",
+            "feedback": {
+                "c1": "Average. You identify cortisol as a key stress hormone, which is correct. However, you conflate the chronic stress response with the 'fight or flight' system (which is more about acute stress) and do not explain the HPA axis, which is a key part of the prompt.",
+                "c2": "Average. You make basic connections between stress and general health problems like getting sick and having heart or stomach issues. To improve, you need to be more specific about the conditions (e.g., cardiovascular disease, irritable bowel syndrome) and try to explain the link more clearly.",
+                "c3": "Average. It's good that you mentioned Selye, but the reference is underdeveloped. You need to explain his theory (General Adaptation Syndrome) and connect its stages more directly to your points about chronic stress and illness. The submission lacks reference to specific studies.",
+                "c4": "Average. The submission is understandable, but the tone is informal and lacks the structure of an academic essay. Try to use more formal language and organize your points into distinct paragraphs with clear topic sentences. No citation format was used."
+            }
+        },
+        {
+            "quality": "Needs Improvement",
+            "key_points": [
+                "Says stress is bad for you.",
+                "Mentions that stress affects your health.",
+                "Makes vague claims without support.",
+                "Lacks clear structure or academic language."
+            ],
+            "llm_questions": [
+                "What is stress?",
+                "Does stress cause sickness?",
+                "What is a hormone?"
+            ],
+            "llm_answers": [
+                "Stress is a feeling of being overwhelmed or under pressure.",
+                "Yes, people say that if you're too stressed you can get sick.",
+                "A hormone is a chemical in your body."
+            ],
+            "final_submission": "Stress is a very big problem in modern life. When people have stress for a long time it is chronic. This is very bad for your health. Your body has a reaction to stress and it can make you tired and sick. It affects your immune system. It can also affect your mind, making you feel sad or down. People with a lot of stress can have many health problems. They might have a heart attack or always be getting colds. It is important to manage stress so this does not happen. You need to relax so your body can be healthy.",
+            "feedback": {
+                "c1": "Needs Improvement. The submission provides a very partial and unclear understanding of stress mechanisms. It mentions a 'reaction to stress' but fails to describe any biological components like the HPA axis or cortisol, which was a central requirement of the prompt.",
+                "c2": "Needs Improvement. You make vague claims that stress can cause sickness or a heart attack, but these are not supported by any explanation of the mechanisms involved. The connection to health outcomes is asserted but not explained.",
+                "c3": "Needs Improvement. The submission makes several claims without any reference to psychological theories or research studies. To meet the requirements, you must support your points with evidence from the field.",
+                "c4": "Needs Improvement. The writing is very simplistic and lacks a formal academic tone or clear structure. The final sentences shift to giving advice, which is not what the prompt asked for. The response needs to be organized as an academic discussion."
+            }
+        },
+        {
+            "quality": "Poor",
+            "key_points": [
+                "Talks about personal feelings of stress.",
+                "Does not address any of the prompt's specific requirements.",
+                "No scientific or psychological content.",
+                "Completely lacks academic structure and tone."
+            ],
+            "llm_questions": [
+                "How do I not feel stressed?",
+                "What is psychology?",
+                "Is this about biology?"
+            ],
+            "llm_answers": [
+                "You can try deep breathing or going for a walk.",
+                "Psychology is the study of people's minds and behavior.",
+                "Yes, the question asks about biology, like hormones and your immune system."
+            ],
+            "final_submission": "I get stressed a lot from school and my job. It makes me feel tired all the time and sometimes I get headaches. It's hard to focus on my work when I feel this way. I think it's important for everyone to find ways to relax, like listening to music or hanging out with friends. Being stressed is not fun and it can't be good for you. It's just a bad feeling.",
+            "feedback": {
+                "c1": "Poor. The submission fails to describe how stress works biologically or psychologically. It is a personal reflection and does not address the HPA axis or any other scientific mechanism as required.",
+                "c2": "Poor. There is no meaningful connection made between stress and specific health outcomes. The submission mentions feeling tired and getting headaches but does not connect this to the physiological processes outlined in the prompt.",
+                "c3": "Poor. The submission makes no use of evidence. There are no references to theories, studies, or researchers from the field of psychology or biology.",
+                "c4": "Poor. The response is a personal anecdote and completely lacks an academic tone, structure, or any form of citation. It does not address the prompt."
+            }
+        }
+    ]
+}
