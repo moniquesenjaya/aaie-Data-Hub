@@ -34,4 +34,4 @@ jobs:
 
       - name: Run Validation Script
         run: |
-          python scripts/validation/validate_json.py data/curated
+          python scripts/validation/validation.py data/curated
