@@ -1,0 +1,83 @@
+{
+  "domain": "Teaching",
+  "prompt": "Analyze the effectiveness of active learning strategies in higher education and their impact on student engagement and academic outcomes.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0001",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Active Learning Principles",
+        "description": "Demonstrates comprehensive knowledge of active learning methodologies and their theoretical foundations.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains active learning principles with depth and appropriate terminology.",
+          "good": "Explains active learning principles adequately with minor gaps.",
+          "average": "Basic explanation with some inaccuracies.",
+          "needs_improvement": "Limited or unclear understanding.",
+          "poor": "Fails to explain active learning principles."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Student Engagement Impact",
+        "description": "Evaluates how active learning affects student participation, motivation, and learning outcomes.",
+        "performance_descriptors": {
+          "excellent": "Provides insightful analysis of engagement benefits with supporting evidence.",
+          "good": "Explains benefits adequately with minor omissions.",
+          "average": "Touches on impact with minimal explanation.",
+          "needs_improvement": "Limited or vague account of impact.",
+          "poor": "No meaningful discussion on impact."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research Evidence",
+        "description": "Incorporates relevant research and critical analysis to support discussion.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple credible studies and critically analyzes them.",
+          "good": "References some relevant studies clearly.",
+          "average": "Mentions research with limited connection.",
+          "needs_improvement": "Minimal or poor use of research.",
+          "poor": "No use of supporting evidence."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Practical Implementation Strategies",
+        "description": "Identifies feasible strategies and addresses implementation challenges.",
+        "performance_descriptors": {
+          "excellent": "Presents detailed, actionable strategies addressing common challenges.",
+          "good": "Provides practical strategies with some depth.",
+          "average": "Mentions strategies with limited detail.",
+          "needs_improvement": "Suggests vague or unsuitable strategies.",
+          "poor": "No practical strategies included."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "final_submission": "Active learning strategies such as think-pair-share, flipped classrooms, and problem-based learning have been shown to significantly improve student engagement and learning outcomes in higher education. These approaches encourage active participation and collaboration, rooted in constructivist theory. Studies like Freeman et al. (2014) provide strong empirical support showing enhanced performance and retention. Effective implementation requires addressing challenges such as large class sizes and varied student readiness, where integrating technology like polling apps and online discussion forums can be invaluable.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "Implementing active learning techniques such as group discussions and interactive assignments helps students become more engaged. Research demonstrates that when students actively participate, they retain more information and perform better on assessments. Educators often face obstacles like time constraints or student resistance but can mitigate these with thoughtful planning and use of digital tools to enable collaboration and feedback.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "From my experience, classes that use techniques where students work with peers or discuss concepts openly are much more engaging and helpful than traditional lectures. In biology, group projects and flipped classroom sessions allowed me to understand difficult topics better, and I saw my grades improve as a result.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "While active learning can motivate many students, in some courses, especially large ones, it's challenging to involve every student. Sometimes students prefer lectures or simply do not want to participate, making implementation inconsistent.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "A balanced approach combining lectures with real-time polls, quizzes, and breakout group activities has proven to keep students alert and encourage participation. This hybrid method leverages technology while maintaining structure, making it effective even in large classrooms.",
+      "label_type": "Hybrid"
+    },
+    {
+      "final_submission": "Active learning means students do activities rather than just listen. Sometimes teachers use group work or ask questions to involve students more. This approach aims to help students learn better.",
+      "label_type": "Hybrid"
+    }
+  ]
+}

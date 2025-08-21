@@ -1,0 +1,83 @@
+{
+  "domain": "Teaching",
+  "prompt": "Evaluate the challenges and opportunities of online education in higher education and analyze effective strategies for student engagement and instructional quality in virtual classrooms.",
+  "rubric": {
+    "rubric_id": "rub_teaching_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Online Education Principles",
+        "description": "Demonstrates understanding of fundamental principles and theories related to online education.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains key principles and major models, using correct terminology and depth.",
+          "good": "Describes two or more online education concepts with some detail.",
+          "average": "Mentions online education but with limited explanation.",
+          "needs_improvement": "Basic or unclear understanding.",
+          "poor": "Fails to explain any principled models."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Challenges and Opportunities",
+        "description": "Evaluates primary barriers as well as possibilities in online education environments.",
+        "performance_descriptors": {
+          "excellent": "Insightfully identifies both challenges (e.g., access, motivation) and new opportunities with relevant examples.",
+          "good": "Explains main challenges/opportunities with some supporting detail.",
+          "average": "Mentions challenges or opportunities with little analysis.",
+          "needs_improvement": "Minimal or vague examples.",
+          "poor": "No meaningful discussion of challenges or opportunities."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Research Evidence or Examples",
+        "description": "Cites research, case studies, or real-life classroom practices to support arguments.",
+        "performance_descriptors": {
+          "excellent": "Integrates multiple studies or real-world examples in a critical, relevant way.",
+          "good": "References research or cases with reasonable connection.",
+          "average": "Mentions research or practice in passing.",
+          "needs_improvement": "Little or unclear evidence cited.",
+          "poor": "No evidence cited."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Instructional and Engagement Strategies",
+        "description": "Identifies and discusses effective methods for online teaching and sustaining student engagement.",
+        "performance_descriptors": {
+          "excellent": "Provides detailed, feasible strategies and explains how they address the unique context of online learning.",
+          "good": "Describes several suitable strategies with examples.",
+          "average": "Mentions strategies but with minimal detail.",
+          "needs_improvement": "Vague or generic suggestions.",
+          "poor": "No discussion of instructional or engagement strategies."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "final_submission": "Online education in higher education is grounded in principles such as flexibility, accessibility, and learner autonomy. Frameworks like the Community of Inquiry model highlight the importance of social, cognitive, and teaching presence in virtual classrooms. Major challenges include digital divide, student isolation, and maintaining engagement. Conversely, online education offers opportunities for personalized learning and global access. Research (e.g., Hodges et al., 2020) emphasizes the need for intentional course design and continuous feedback. Effective strategies include active discussion forums, regular low-stakes quizzes, and synchronous sessions to foster community. By leveraging technology and thoughtful practices, instructors can create high-quality, engaging virtual learning experiences.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "Teaching online allows more flexible schedules and broader participation but makes it hard to ensure every student is involved. Problems like unstable internet or students not turning on cameras make classes challenging. Some universities use breakout rooms and online polls so that everyone can contribute and stay active. It helps when teachers share slides and ask questions during lectures.",
+      "label_type": "AI"
+    },
+    {
+      "final_submission": "As a graduate student during the pandemic, I struggled with feeling isolated in online classes but liked being able to review recorded lectures. Instructors who used weekly discussion boards and small group video calls helped me stay connected and learn more effectively than in courses where we were just listeners.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "Online learning can be convenient for students with jobs or families but it's also easy to get distracted at home. Teachers sometimes have trouble keeping students focused, especially if there aren't many interactive activities during class.",
+      "label_type": "Human"
+    },
+    {
+      "final_submission": "Combining live video lessons with collaborative Google Docs and quick online surveys lets students interact even when they're not on campus. This hybrid approach is important for classes with students in different time zones and learning needs.",
+      "label_type": "Hybrid"
+    },
+    {
+      "final_submission": "Online teaching is where teachers use computers to share lessons. Sometimes students watch videos or do quizzes online. Some teachers use group chats to help students talk to each other.",
+      "label_type": "Hybrid"
+    }
+  ]
+}
