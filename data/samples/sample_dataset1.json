@@ -1,0 +1,210 @@
+{
+  "domain": "Information Technology",
+  "prompt": "Evaluate the impact of cloud computing on modern business infrastructure.",
+  "rubric": {
+    "rubric_id": "rub_it_0002",
+    "criteria": [
+      {
+        "criterion_id": "c1",
+        "name": "Understanding of Cloud Concepts",
+        "description": "Demonstrates knowledge of cloud computing models (IaaS, PaaS, SaaS) and their business applications.",
+        "performance_descriptors": {
+          "excellent": "Clearly explains multiple models and maps each to relevant business use cases.",
+          "good": "Accurately describes 1–2 models and gives examples.",
+          "average": "Mentions cloud models but with limited detail.",
+          "needs_improvement": "Basic or unclear understanding of models.",
+          "poor": "Fails to explain cloud computing accurately."
+        }
+      },
+      {
+        "criterion_id": "c2",
+        "name": "Analysis of Business Impact",
+        "description": "Evaluates how cloud technology affects cost, scalability, and operations.",
+        "performance_descriptors": {
+          "excellent": "Insightfully discusses cost savings, agility, and risk tradeoffs.",
+          "good": "Explains basic benefits like flexibility or cost reduction.",
+          "average": "Makes general claims without detailed analysis.",
+          "needs_improvement": "Mentions impact with minimal support.",
+          "poor": "No clear link to business outcomes."
+        }
+      },
+      {
+        "criterion_id": "c3",
+        "name": "Use of Real-World Examples",
+        "description": "Incorporates actual or realistic examples of companies using cloud infrastructure.",
+        "performance_descriptors": {
+          "excellent": "Provides multiple well-explained examples with relevance.",
+          "good": "Provides at least one relevant example.",
+          "average": "Mentions example(s) with little context.",
+          "needs_improvement": "Example(s) are vague or unrelated.",
+          "poor": "No examples given."
+        }
+      },
+      {
+        "criterion_id": "c4",
+        "name": "Structure and Academic Style",
+        "description": "Presents arguments in a well-structured, formal academic tone.",
+        "performance_descriptors": {
+          "excellent": "Highly coherent essay with formal tone and logical flow.",
+          "good": "Mostly well-structured with clear transitions.",
+          "average": "Some structure; style inconsistently academic.",
+          "needs_improvement": "Unclear flow or casual language.",
+          "poor": "Disorganised or informal."
+        }
+      }
+    ]
+  },
+  "submissions": [
+    {
+      "quality": "Excellent",
+      "key_points": [
+        "Understand and differentiate between IaaS, PaaS, and SaaS cloud models.",
+        "Map each cloud model to a real business use case.",
+        "Evaluate the impact of cloud computing on cost reduction, operational agility, and scalability.",
+        "Include real-world examples of businesses using cloud infrastructure effectively.",
+        "Write using a formal, academic structure with clear argumentation and logical flow."
+      ],
+      "llm_questions": [
+        "What are the key differences between IaaS, PaaS, and SaaS?",
+        "How does cloud computing reduce operational costs for businesses?",
+        "Can you provide real examples of companies using cloud services?",
+        "What are the security and scalability benefits of using the cloud?",
+        "How does cloud computing support digital transformation?"
+      ],
+      "llm_answers": [
+        "IaaS offers virtualized resources, PaaS supports app development, and SaaS delivers software over the internet.",
+        "By shifting to the cloud, companies avoid hardware costs and pay only for what they use.",
+        "Netflix uses AWS for global content delivery; Dropbox runs its infrastructure on hybrid cloud.",
+        "Cloud services offer scalability through auto-scaling and better security via centralized updates.",
+        "Cloud platforms enable rapid innovation, remote access, and integration with AI and analytics tools."
+      ],
+      "final_submission": "Cloud computing has transformed how businesses operate by offering scalable, cost-effective solutions. Companies can adopt IaaS for infrastructure flexibility, PaaS for development, and SaaS for productivity tools. For example, Netflix uses AWS to deliver content globally, and startups leverage Google Cloud to reduce deployment time. The cloud enables rapid digital transformation, supporting scalability, agility, and data-driven decisions.",
+      "feedback": {
+        "c1": "Excellent understanding of cloud service models with business relevance clearly demonstrated.",
+        "c2": "Strong, detailed evaluation of cost, scalability, and strategic impact.",
+        "c3": "Relevant and diverse real-world examples used effectively.",
+        "c4": "Clear, logical flow with formal tone throughout the essay."
+      }
+    },
+    {
+      "quality": "Good",
+      "key_points": [
+        "Define cloud service models with at least one clear example (e.g., SaaS).",
+        "Explain how businesses benefit from the cloud in terms of cost and flexibility.",
+        "Mention at least one company that uses cloud services.",
+        "Maintain a clear structure with mostly formal tone."
+      ],
+      "llm_questions": [
+        "What is SaaS and how do companies use it?",
+        "Can cloud computing help businesses save money?",
+        "What is a company that uses cloud technology?",
+        "Is cloud more scalable than traditional servers?",
+        "Why is cloud important in business?"
+      ],
+      "llm_answers": [
+        "SaaS is software accessed online, like Google Docs or Zoom.",
+        "Yes, businesses save money on servers and IT staff.",
+        "Amazon and Dropbox use cloud to manage storage and services.",
+        "Yes, cloud can grow with the business more easily.",
+        "Cloud allows flexibility and remote work."
+      ],
+      "final_submission": "Cloud computing helps companies by offering services like SaaS. They don’t need to buy expensive servers and can use tools like Google Docs. Amazon and other companies use cloud to store data and run apps. It’s scalable and helps employees work from anywhere. That’s why many businesses are moving to the cloud.",
+      "feedback": {
+        "c1": "Accurate explanation of SaaS with examples, but limited coverage of other models.",
+        "c2": "Mentions cost savings and flexibility but lacks deeper analysis.",
+        "c3": "Good example provided; could benefit from more elaboration.",
+        "c4": "Structure is clear; tone mostly formal with minor lapses."
+      }
+    },
+    {
+      "quality": "Average",
+      "key_points": [
+        "Mention that cloud computing helps businesses use the internet and store files.",
+        "Recognize that the cloud is generally considered secure.",
+        "Identify that businesses are moving online and using cloud services.",
+        "Attempt to organize the response even if lacking technical depth."
+      ],
+      "llm_questions": [
+        "What is cloud computing?",
+        "Do businesses use the internet a lot?",
+        "Is cloud safe?",
+        "Can you store files in cloud?",
+        "Why do companies like cloud?"
+      ],
+      "llm_answers": [
+        "Cloud computing is using the internet to do things.",
+        "Yes, many businesses work online.",
+        "Cloud is usually safe.",
+        "You can store things like photos and documents.",
+        "It is helpful and easy to use."
+      ],
+      "final_submission": "Cloud computing means doing things online. Companies like it because it’s easy and helps them do work. You can save files there. Many businesses use cloud now. It is safer and faster for some things.",
+      "feedback": {
+        "c1": "Mentions cloud but lacks depth or clarity on models.",
+        "c2": "General comments on benefits without concrete details.",
+        "c3": "No specific company examples given.",
+        "c4": "Some structure present; lacks academic tone."
+      }
+    },
+    {
+      "quality": "Needs Improvement",
+      "key_points": [
+        "Cloud helps with speed and storing files, possibly reducing hardware needs.",
+        "Cloud can be accessed from both home and office.",
+        "Basic awareness that businesses use internet tools.",
+        "Minimal attempt at structure; mostly general ideas."
+      ],
+      "llm_questions": [
+        "How does cloud help computers work?",
+        "Do companies use the internet?",
+        "Is cloud storage the same as cloud computing?",
+        "How does cloud improve business?",
+        "Can cloud be used at home too?"
+      ],
+      "llm_answers": [
+        "Cloud helps run programs and store data online.",
+        "Most companies work with the internet these days.",
+        "Cloud storage is one part of cloud computing.",
+        "It helps with working faster and saving costs.",
+        "Yes, home users use cloud for storing photos and backups."
+      ],
+      "final_submission": "Cloud computing is a new way to do things online. Businesses can save files on the cloud and don’t need big servers. It helps with speed and can be accessed from home or office. Most companies use the internet so this helps. Cloud is also useful for storing pictures and apps.",
+      "feedback": {
+        "c1": "Understanding of cloud is basic and lacks clarity on key models.",
+        "c2": "Mentions improvements vaguely; minimal support provided.",
+        "c3": "No real-world business examples mentioned.",
+        "c4": "Structure unclear; tone too casual for academic context."
+      }
+    },
+    {
+      "quality": "Poor",
+      "key_points": [
+        "Technology is used in business, including Microsoft Word and Google Drive.",
+        "File sharing happens through the internet.",
+        "Mentions cloud and servers but lacks focus on business infrastructure.",
+        "Unstructured ideas with unclear relevance to cloud computing."
+      ],
+      "llm_questions": [
+        "What is Microsoft Word used for?",
+        "How do people share files?",
+        "Can Google Drive be used in business?",
+        "Is the internet part of cloud?",
+        "What is a server?"
+      ],
+      "llm_answers": [
+        "Microsoft Word is used for writing documents.",
+        "Files can be shared through email or cloud services.",
+        "Google Drive can store files and is used in business.",
+        "The internet is how we access cloud services.",
+        "A server is a computer that stores data."
+      ],
+      "final_submission": "Businesses use different tools like Microsoft Word and Google Drive to do their work. Sharing files is easier now using the internet. Servers are used to store things and connect to the internet. While cloud is used, there are also other tools. Technology helps companies do many things faster.",
+      "feedback": {
+        "c1": "Fails to demonstrate understanding of cloud computing concepts.",
+        "c2": "No clear evaluation of business impact from cloud.",
+        "c3": "Mentions tools, but lacks business-related cloud examples.",
+        "c4": "Informal structure; unrelated content distracts from the topic."
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AAIE Dataset Entry Schema",
+  "type": "object",
+  "required": [
+    "domain",
+    "prompt",
+    "rubric",
+    "submissions"
+  ],
+  "properties": {
+    "domain": {
+      "type": "string"
+    },
+    "prompt": {
+      "type": "string"
+    },
+    "rubric": {
+      "type": "object",
+      "required": [
+        "rubric_id",
+        "criteria"
+      ],
+      "properties": {
+        "rubric_id": {
+          "type": "string"
+        },
+        "criteria": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "criterion_id",
+              "name",
+              "description",
+              "performance_descriptors"
+            ],
+            "properties": {
+              "criterion_id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "performance_descriptors": {
+                "type": "object",
+                "required": [
+                  "excellent",
+                  "good",
+                  "average",
+                  "needs_improvement",
+                  "poor"
+                ],
+                "properties": {
+                  "excellent": {
+                    "type": "string"
+                  },
+                  "good": {
+                    "type": "string"
+                  },
+                  "average": {
+                    "type": "string"
+                  },
+                  "needs_improvement": {
+                    "type": "string"
+                  },
+                  "poor": {
+                    "type": "string"
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "submissions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "quality",
+          "key_points",
+          "llm_questions",
+          "llm_answers",
+          "final_submission",
+          "feedback"
+        ],
+        "properties": {
+          "quality": {
+            "type": "string",
+            "enum": [
+              "Excellent",
+              "Good",
+              "Average",
+              "Needs Improvement",
+              "Poor"
+            ]
+          },
+          "key_points": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "llm_questions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "llm_answers": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "final_submission": {
+            "type": "string"
+          },
+          "feedback": {
+            "type": "object",
+            "patternProperties": {
+              "^c[0-9]+$": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
